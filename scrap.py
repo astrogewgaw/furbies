@@ -134,7 +134,7 @@ def numpages() -> int:
     """"""
 
     return len(
-        re.search(
+        re.search(  # type: ignore
             r"Pages(\d[\n\d]+)",
             BeautifulSoup(
                 requests.get(url.replace("&format=csv", "").format("0")).content, "lxml"
