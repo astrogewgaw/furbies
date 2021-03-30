@@ -1,10 +1,10 @@
 import re
 import requests
-import pandas as pd
+import pandas as pd  # type: ignore
 
 from pathlib import Path
 from textwrap import dedent
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup  # type: ignore
 
 url = """
     https://www.wis-tns.org/
