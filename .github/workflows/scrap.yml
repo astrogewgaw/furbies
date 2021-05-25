@@ -3,8 +3,8 @@ name: Scrap
 on:
   workflow_dispatch:
   schedule:
-    # Every 15th of the month at midnight.
-    - cron: "0 0 15 * *"
+    # Every Friday at midnight.
+    - cron: "0 0 * * 5"
 
 jobs:
   build:
@@ -18,10 +18,11 @@ jobs:
         uses: actions/setup-python@v2.2.1
         with:
           python-version: 3.8
+      # Installing required dependencies.
       - name: Install dependencies.
         run: |
           python -m pip install --upgrade pip
-          if [ -f deps.txt ]; then pip install -r deps.txt; fi
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       # Running the script for scrapping.
       - name: Run the scrapping script.
         run: |
@@ -30,6 +31,7 @@ jobs:
           git config --global user.email "furbybot@example.com"
           git config --global user.name "furbybot"
           git commit -m "FRBs database updated: `date +'%Y-%m-%d %H:%M:%S'`" || true
+      # Pushing the changes.
       - name: Push the changes.
         uses: ad-m/github-push-action@master
         with:
