@@ -5269,6 +5269,23 @@
             "fluence": 334.0,
             "snr": 85.0,
             "reference": "https://www.astronomerstelegram.org/?read=14556"
+        },
+        "311": {
+            "frb": "FRB 20210518A",
+            "utc": "2021-05-18 1:26:12",
+            "mjd": 59352.05986,
+            "telescope": "ATA",
+            "ra": "5:08:03.50",
+            "dec": "+26:03:37.8",
+            "l": 177.77,
+            "b": -8.52,
+            "frequency": 1500.0,
+            "dm": 411.72,
+            "flux": 43.0,
+            "width": 2.8,
+            "fluence": 120.0,
+            "snr": 20.0,
+            "reference": "https://www.astronomerstelegram.org/?read=14676"
         }
     }
 }
