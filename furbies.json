@@ -1939,6 +1939,23 @@
             "reference": "http://chime-frb.ca/catalog/FRB20180907E"
         },
         "115": {
+            "frb": "FRB 20180908A",
+            "utc": "2018-09-08 21:13:04",
+            "mjd": 58369.88407,
+            "telescope": "CHIME",
+            "ra": "12:13:14.4",
+            "dec": "+74:12:36",
+            "l": 126.45,
+            "b": 42.66,
+            "frequency": 600.0,
+            "dm": 195.72,
+            "flux": null,
+            "width": null,
+            "fluence": null,
+            "snr": 10.4,
+            "reference": "https://www.wis-tns.org/object/20180908a"
+        },
+        "116": {
             "frb": "FRB 20180908B",
             "utc": "2018-09-08 21:13:04",
             "mjd": 58369.88407,
@@ -1955,7 +1972,7 @@
             "snr": 11.3,
             "reference": "http://chime-frb.ca/catalog/FRB20180908B"
         },
-        "116": {
+        "117": {
             "frb": "FRB 20180909A",
             "utc": "2018-09-09 16:56:37",
             "mjd": 58370.70598,
@@ -1972,7 +1989,7 @@
             "snr": 11.0,
             "reference": "http://chime-frb.ca/catalog/FRB20180909A"
         },
-        "117": {
+        "118": {
             "frb": "FRB 20180910A",
             "utc": "2018-09-10 8:06:07",
             "mjd": 58371.33758,
@@ -1989,7 +2006,7 @@
             "snr": 36.6,
             "reference": "http://chime-frb.ca/catalog/FRB20180910A"
         },
-        "118": {
+        "119": {
             "frb": "FRB 20180911A",
             "utc": "2018-09-11 15:00:22",
             "mjd": 58372.62525,
@@ -2006,7 +2023,7 @@
             "snr": 17.5,
             "reference": "http://chime-frb.ca/catalog/FRB20180911A"
         },
-        "119": {
+        "120": {
             "frb": "FRB 20180911C",
             "utc": "2018-09-11 12:59:16",
             "mjd": 58372.54116,
@@ -2023,7 +2040,7 @@
             "snr": 10.5,
             "reference": "http://chime-frb.ca/catalog/FRB20180911C"
         },
-        "120": {
+        "121": {
             "frb": "FRB 20180915A",
             "utc": "2018-09-15 3:03:46",
             "mjd": 58376.12761,
@@ -2040,7 +2057,7 @@
             "snr": 13.4,
             "reference": "http://chime-frb.ca/catalog/FRB20180915A"
         },
-        "121": {
+        "122": {
             "frb": "FRB 20180915B",
             "utc": "2018-09-15 23:24:33",
             "mjd": 58376.97538,
@@ -2057,7 +2074,7 @@
             "snr": 12.5,
             "reference": "http://chime-frb.ca/catalog/FRB20180915B"
         },
-        "122": {
+        "123": {
             "frb": "FRB 20180916A",
             "utc": "2018-09-16 7:33:14",
             "mjd": 58377.31474,
@@ -2074,7 +2091,7 @@
             "snr": 21.4,
             "reference": "http://chime-frb.ca/catalog/FRB20180916A"
         },
-        "123": {
+        "124": {
             "frb": "FRB 20180916B",
             "utc": "2018-09-16 10:15:20",
             "mjd": 58377.42731,
@@ -2091,7 +2108,7 @@
             "snr": 18.7,
             "reference": "http://chime-frb.ca/catalog/FRB20180916B"
         },
-        "124": {
+        "125": {
             "frb": "FRB 20180916C",
             "utc": "2018-09-16 15:26:21",
             "mjd": 58377.6433,
@@ -2108,7 +2125,7 @@
             "snr": 11.1,
             "reference": "http://chime-frb.ca/catalog/FRB20180916C"
         },
-        "125": {
+        "126": {
             "frb": "FRB 20180917A",
             "utc": "2018-09-17 0:46:38",
             "mjd": 58378.03239,
@@ -2125,7 +2142,7 @@
             "snr": 19.0,
             "reference": "http://chime-frb.ca/catalog/FRB20180917A"
         },
-        "126": {
+        "127": {
             "frb": "FRB 20180917B",
             "utc": "2018-09-17 0:08:56",
             "mjd": 58378.0062,
@@ -2142,7 +2159,7 @@
             "snr": 16.5,
             "reference": "http://chime-frb.ca/catalog/FRB20180917B"
         },
-        "127": {
+        "128": {
             "frb": "FRB 20180918A",
             "utc": "2018-09-18 4:11:27",
             "mjd": 58379.17462,
@@ -2159,7 +2176,7 @@
             "snr": 14.0,
             "reference": "http://chime-frb.ca/catalog/FRB20180918A"
         },
-        "128": {
+        "129": {
             "frb": "FRB 20180919A",
             "utc": "2018-09-19 12:36:12",
             "mjd": 58380.52514,
@@ -2176,7 +2193,7 @@
             "snr": 13.4,
             "reference": "http://chime-frb.ca/catalog/FRB20180919A"
         },
-        "129": {
+        "130": {
             "frb": "FRB 20180919B",
             "utc": "2018-09-19 8:29:25",
             "mjd": 58380.35376,
@@ -2193,7 +2210,7 @@
             "snr": 16.1,
             "reference": "http://chime-frb.ca/catalog/FRB20180919B"
         },
-        "130": {
+        "131": {
             "frb": "FRB 20180920A",
             "utc": "2018-09-20 13:19:37",
             "mjd": 58381.55529,
@@ -2210,7 +2227,7 @@
             "snr": 13.5,
             "reference": "http://chime-frb.ca/catalog/FRB20180920A"
         },
-        "131": {
+        "132": {
             "frb": "FRB 20180920B",
             "utc": "2018-09-20 20:41:24",
             "mjd": 58381.86208,
@@ -2227,7 +2244,7 @@
             "snr": 10.5,
             "reference": "http://chime-frb.ca/catalog/FRB20180920B"
         },
-        "132": {
+        "133": {
             "frb": "FRB 20180921A",
             "utc": "2018-09-21 9:54:03",
             "mjd": 58382.41253,
@@ -2244,7 +2261,7 @@
             "snr": 10.3,
             "reference": "http://chime-frb.ca/catalog/FRB20180921A"
         },
-        "133": {
+        "134": {
             "frb": "FRB 20180922A",
             "utc": "2018-09-22 6:38:35",
             "mjd": 58383.27679,
@@ -2261,7 +2278,7 @@
             "snr": 24.5,
             "reference": "http://chime-frb.ca/catalog/FRB20180922A"
         },
-        "134": {
+        "135": {
             "frb": "FRB 20180923A",
             "utc": "2018-09-23 5:42:51",
             "mjd": 58384.23809,
@@ -2278,7 +2295,7 @@
             "snr": 16.1,
             "reference": "http://chime-frb.ca/catalog/FRB20180923A"
         },
-        "135": {
+        "136": {
             "frb": "FRB 20180923B",
             "utc": "2018-09-23 4:03:38",
             "mjd": 58384.16919,
@@ -2295,7 +2312,7 @@
             "snr": 13.0,
             "reference": "https://www.wis-tns.org/object/20180923b"
         },
-        "136": {
+        "137": {
             "frb": "FRB 20180923C",
             "utc": "2018-09-23 23:47:25",
             "mjd": 58384.99126,
@@ -2312,7 +2329,7 @@
             "snr": 15.0,
             "reference": "http://chime-frb.ca/catalog/FRB20180923C"
         },
-        "137": {
+        "138": {
             "frb": "FRB 20180923D",
             "utc": "2018-09-23 19:06:52",
             "mjd": 58384.79643,
@@ -2329,7 +2346,7 @@
             "snr": 48.1,
             "reference": "http://chime-frb.ca/catalog/FRB20180923D"
         },
-        "138": {
+        "139": {
             "frb": "FRB 20180924A",
             "utc": "2018-09-24 10:08:46",
             "mjd": 58385.42276,
@@ -2346,7 +2363,7 @@
             "snr": 18.2,
             "reference": "http://chime-frb.ca/catalog/FRB20180924A"
         },
-        "139": {
+        "140": {
             "frb": "FRB 20180924B",
             "utc": "2018-09-24 16:23:13",
             "mjd": 58385.68279,
@@ -2363,7 +2380,7 @@
             "snr": 194.0,
             "reference": "https://www.wis-tns.org/object/20180924b"
         },
-        "140": {
+        "141": {
             "frb": "FRB 20180925A",
             "utc": "2018-09-25 12:43:17",
             "mjd": 58386.53006,
@@ -2380,7 +2397,7 @@
             "snr": 11.3,
             "reference": "http://chime-frb.ca/catalog/FRB20180925A"
         },
-        "141": {
+        "142": {
             "frb": "FRB 20180925B",
             "utc": "2018-09-25 17:27:00",
             "mjd": 58386.72708,
@@ -2397,7 +2414,7 @@
             "snr": 12.0,
             "reference": "http://chime-frb.ca/catalog/FRB20180925B"
         },
-        "142": {
+        "143": {
             "frb": "FRB 20180928A",
             "utc": "2018-09-28 4:24:32",
             "mjd": 58389.1837,
@@ -2414,7 +2431,7 @@
             "snr": 37.7,
             "reference": "http://chime-frb.ca/catalog/FRB20180928A"
         },
-        "143": {
+        "144": {
             "frb": "FRB 20181012B",
             "utc": "2018-10-12 20:22:27",
             "mjd": 58403.84892,
@@ -2431,7 +2448,7 @@
             "snr": 11.8,
             "reference": "http://chime-frb.ca/catalog/FRB20181012B"
         },
-        "144": {
+        "145": {
             "frb": "FRB 20181013A",
             "utc": "2018-10-13 0:04:30",
             "mjd": 58404.00313,
@@ -2448,7 +2465,7 @@
             "snr": 25.6,
             "reference": "http://chime-frb.ca/catalog/FRB20181013A"
         },
-        "145": {
+        "146": {
             "frb": "FRB 20181013B",
             "utc": "2018-10-13 12:57:52",
             "mjd": 58404.54019,
@@ -2465,7 +2482,7 @@
             "snr": 11.7,
             "reference": "http://chime-frb.ca/catalog/FRB20181013B"
         },
-        "146": {
+        "147": {
             "frb": "FRB 20181013C",
             "utc": "2018-10-13 16:19:11",
             "mjd": 58404.67999,
@@ -2482,7 +2499,7 @@
             "snr": 12.6,
             "reference": "http://chime-frb.ca/catalog/FRB20181013C"
         },
-        "147": {
+        "148": {
             "frb": "FRB 20181013E",
             "utc": "2018-10-13 2:56:23",
             "mjd": 58404.12249,
@@ -2499,7 +2516,7 @@
             "snr": 10.7,
             "reference": "http://chime-frb.ca/catalog/FRB20181013E"
         },
-        "148": {
+        "149": {
             "frb": "FRB 20181014A",
             "utc": "2018-10-14 9:39:48",
             "mjd": 58405.40264,
@@ -2516,7 +2533,7 @@
             "snr": 18.2,
             "reference": "http://chime-frb.ca/catalog/FRB20181014A"
         },
-        "149": {
+        "150": {
             "frb": "FRB 20181014B",
             "utc": "2018-10-14 11:45:32",
             "mjd": 58405.48995,
@@ -2533,7 +2550,7 @@
             "snr": 20.9,
             "reference": "http://chime-frb.ca/catalog/FRB20181014B"
         },
-        "150": {
+        "151": {
             "frb": "FRB 20181014C",
             "utc": "2018-10-14 14:18:58",
             "mjd": 58405.59651,
@@ -2550,7 +2567,7 @@
             "snr": 10.1,
             "reference": "http://chime-frb.ca/catalog/FRB20181014C"
         },
-        "151": {
+        "152": {
             "frb": "FRB 20181014D",
             "utc": "2018-10-14 20:50:28",
             "mjd": 58405.86838,
@@ -2567,7 +2584,7 @@
             "snr": 13.6,
             "reference": "http://chime-frb.ca/catalog/FRB20181014D"
         },
-        "152": {
+        "153": {
             "frb": "FRB 20181015A",
             "utc": "2018-10-15 18:04:27",
             "mjd": 58406.75309,
@@ -2584,7 +2601,7 @@
             "snr": 11.1,
             "reference": "http://chime-frb.ca/catalog/FRB20181015A"
         },
-        "153": {
+        "154": {
             "frb": "FRB 20181016A",
             "utc": "2018-10-16 4:16:56",
             "mjd": 58407.17843,
@@ -2601,7 +2618,7 @@
             "snr": null,
             "reference": "https://www.wis-tns.org/object/20181016a"
         },
-        "154": {
+        "155": {
             "frb": "FRB 20181017A",
             "utc": "2018-10-17 23:26:12",
             "mjd": 58408.97653,
@@ -2618,7 +2635,7 @@
             "snr": 12.9,
             "reference": "http://chime-frb.ca/catalog/FRB20181017A"
         },
-        "155": {
+        "156": {
             "frb": "FRB 20181017B",
             "utc": "2018-10-17 22:18:55",
             "mjd": 58408.9298,
@@ -2635,7 +2652,7 @@
             "snr": 12.6,
             "reference": "http://chime-frb.ca/catalog/FRB20181017B"
         },
-        "156": {
+        "157": {
             "frb": "FRB 20181017C",
             "utc": "2018-10-17 10:24:37",
             "mjd": 58408.43376,
@@ -2652,7 +2669,7 @@
             "snr": null,
             "reference": "https://www.wis-tns.org/object/20181017c"
         },
-        "157": {
+        "158": {
             "frb": "FRB 20181017D",
             "utc": "2018-10-17 16:04:48",
             "mjd": 58408.6652,
@@ -2669,7 +2686,7 @@
             "snr": 14.3,
             "reference": "https://arxiv.org/2102.10546"
         },
-        "158": {
+        "159": {
             "frb": "FRB 20181018A",
             "utc": "2018-10-18 7:20:45",
             "mjd": 58409.30608,
@@ -2686,7 +2703,7 @@
             "snr": 10.8,
             "reference": "http://chime-frb.ca/catalog/FRB20181018A"
         },
-        "159": {
+        "160": {
             "frb": "FRB 20181018B",
             "utc": "2018-10-18 4:39:31",
             "mjd": 58409.19411,
@@ -2703,7 +2720,7 @@
             "snr": 35.6,
             "reference": "http://chime-frb.ca/catalog/FRB20181018B"
         },
-        "160": {
+        "161": {
             "frb": "FRB 20181018C",
             "utc": "2018-10-18 10:42:52",
             "mjd": 58409.44644,
@@ -2720,7 +2737,7 @@
             "snr": 29.4,
             "reference": "http://chime-frb.ca/catalog/FRB20181018C"
         },
-        "161": {
+        "162": {
             "frb": "FRB 20181019A",
             "utc": "2018-10-19 8:13:22",
             "mjd": 58410.34262,
@@ -2737,7 +2754,7 @@
             "snr": 16.2,
             "reference": "http://chime-frb.ca/catalog/FRB20181019A"
         },
-        "162": {
+        "163": {
             "frb": "FRB 20181019B",
             "utc": "2018-10-19 8:44:33",
             "mjd": 58410.36427,
@@ -2754,7 +2771,7 @@
             "snr": 11.3,
             "reference": "http://chime-frb.ca/catalog/FRB20181019B"
         },
-        "163": {
+        "164": {
             "frb": "FRB 20181019C",
             "utc": "2018-10-19 22:19:39",
             "mjd": 58410.93031,
@@ -2771,7 +2788,7 @@
             "snr": 11.5,
             "reference": "http://chime-frb.ca/catalog/FRB20181019C"
         },
-        "164": {
+        "165": {
             "frb": "FRB 20181020A",
             "utc": "2018-10-20 3:33:42",
             "mjd": 58411.1484,
@@ -2788,7 +2805,7 @@
             "snr": 11.6,
             "reference": "http://chime-frb.ca/catalog/FRB20181020A"
         },
-        "165": {
+        "166": {
             "frb": "FRB 20181022C",
             "utc": "2018-10-22 3:28:01",
             "mjd": 58413.14446,
@@ -2805,7 +2822,7 @@
             "snr": 15.0,
             "reference": "http://chime-frb.ca/catalog/FRB20181022C"
         },
-        "166": {
+        "167": {
             "frb": "FRB 20181022D",
             "utc": "2018-10-22 17:53:44",
             "mjd": 58413.74565,
@@ -2822,7 +2839,7 @@
             "snr": 35.6,
             "reference": "http://chime-frb.ca/catalog/FRB20181022D"
         },
-        "167": {
+        "168": {
             "frb": "FRB 20181022E",
             "utc": "2018-10-22 20:37:28",
             "mjd": 58413.85935,
@@ -2839,7 +2856,7 @@
             "snr": 15.5,
             "reference": "http://chime-frb.ca/catalog/FRB20181022E"
         },
-        "168": {
+        "169": {
             "frb": "FRB 20181025A",
             "utc": "2018-10-25 12:51:26",
             "mjd": 58416.53572,
@@ -2856,7 +2873,7 @@
             "snr": 18.8,
             "reference": "http://chime-frb.ca/catalog/FRB20181025A"
         },
-        "169": {
+        "170": {
             "frb": "FRB 20181027A",
             "utc": "2018-10-27 14:22:01",
             "mjd": 58418.59862,
@@ -2873,7 +2890,7 @@
             "snr": 15.9,
             "reference": "http://chime-frb.ca/catalog/FRB20181027A"
         },
-        "170": {
+        "171": {
             "frb": "FRB 20181028A",
             "utc": "2018-10-28 10:12:35",
             "mjd": 58419.4254,
@@ -2890,7 +2907,7 @@
             "snr": 11.7,
             "reference": "http://chime-frb.ca/catalog/FRB20181028A"
         },
-        "171": {
+        "172": {
             "frb": "FRB 20181030A",
             "utc": "2018-10-30 4:13:13",
             "mjd": 58421.17585,
@@ -2907,7 +2924,7 @@
             "snr": 11.5,
             "reference": "http://chime-frb.ca/catalog/FRB20181030A"
         },
-        "172": {
+        "173": {
             "frb": "FRB 20181030B",
             "utc": "2018-10-30 4:16:22",
             "mjd": 58421.17803,
@@ -2924,7 +2941,7 @@
             "snr": 10.2,
             "reference": "http://chime-frb.ca/catalog/FRB20181030B"
         },
-        "173": {
+        "174": {
             "frb": "FRB 20181030C",
             "utc": "2018-10-30 2:05:34",
             "mjd": 58421.0872,
@@ -2941,7 +2958,7 @@
             "snr": 11.7,
             "reference": "http://chime-frb.ca/catalog/FRB20181030C"
         },
-        "174": {
+        "175": {
             "frb": "FRB 20181030D",
             "utc": "2018-10-30 10:52:05",
             "mjd": 58421.45284,
@@ -2958,7 +2975,7 @@
             "snr": 21.5,
             "reference": "http://chime-frb.ca/catalog/FRB20181030D"
         },
-        "175": {
+        "176": {
             "frb": "FRB 20181030E",
             "utc": "2018-10-30 14:25:26",
             "mjd": 58421.601,
@@ -2975,7 +2992,7 @@
             "snr": 24.3,
             "reference": "http://chime-frb.ca/catalog/FRB20181030E"
         },
-        "176": {
+        "177": {
             "frb": "FRB 20181101A",
             "utc": "2018-11-01 6:43:52",
             "mjd": 58423.28046,
@@ -2992,7 +3009,7 @@
             "snr": 14.1,
             "reference": "http://chime-frb.ca/catalog/FRB20181101A"
         },
-        "177": {
+        "178": {
             "frb": "FRB 20181102A",
             "utc": "2018-11-02 11:03:36",
             "mjd": 58424.46083,
@@ -3009,7 +3026,7 @@
             "snr": 11.9,
             "reference": "http://chime-frb.ca/catalog/FRB20181102A"
         },
-        "178": {
+        "179": {
             "frb": "FRB 20181104A",
             "utc": "2018-11-04 6:57:19",
             "mjd": 58426.2898,
@@ -3026,7 +3043,7 @@
             "snr": 17.9,
             "reference": "http://chime-frb.ca/catalog/FRB20181104A"
         },
-        "179": {
+        "180": {
             "frb": "FRB 20181104B",
             "utc": "2018-11-04 7:07:02",
             "mjd": 58426.29655,
@@ -3043,7 +3060,7 @@
             "snr": 10.6,
             "reference": "http://chime-frb.ca/catalog/FRB20181104B"
         },
-        "180": {
+        "181": {
             "frb": "FRB 20181104C",
             "utc": "2018-11-04 10:15:07",
             "mjd": 58426.42716,
@@ -3060,7 +3077,7 @@
             "snr": 62.2,
             "reference": "http://chime-frb.ca/catalog/FRB20181104C"
         },
-        "181": {
+        "182": {
             "frb": "FRB 20181112A",
             "utc": "2018-11-12 17:31:15",
             "mjd": 58434.73003,
@@ -3077,7 +3094,7 @@
             "snr": 19.3,
             "reference": "https://www.wis-tns.org/object/20181112a"
         },
-        "182": {
+        "183": {
             "frb": "FRB 20181115A",
             "utc": "2018-11-15 13:54:58",
             "mjd": 58437.57984,
@@ -3094,7 +3111,7 @@
             "snr": 18.8,
             "reference": "http://chime-frb.ca/catalog/FRB20181115A"
         },
-        "183": {
+        "184": {
             "frb": "FRB 20181116A",
             "utc": "2018-11-16 6:44:57",
             "mjd": 58438.28122,
@@ -3111,7 +3128,7 @@
             "snr": 25.3,
             "reference": "http://chime-frb.ca/catalog/FRB20181116A"
         },
-        "184": {
+        "185": {
             "frb": "FRB 20181116B",
             "utc": "2018-11-16 19:45:55",
             "mjd": 58438.82355,
@@ -3128,7 +3145,7 @@
             "snr": 16.0,
             "reference": "http://chime-frb.ca/catalog/FRB20181116B"
         },
-        "185": {
+        "186": {
             "frb": "FRB 20181117A",
             "utc": "2018-11-17 14:01:36",
             "mjd": 58439.58445,
@@ -3145,7 +3162,7 @@
             "snr": 12.2,
             "reference": "http://chime-frb.ca/catalog/FRB20181117A"
         },
-        "186": {
+        "187": {
             "frb": "FRB 20181117B",
             "utc": "2018-11-17 21:30:45",
             "mjd": 58439.89635,
@@ -3162,7 +3179,7 @@
             "snr": 17.1,
             "reference": "http://chime-frb.ca/catalog/FRB20181117B"
         },
-        "187": {
+        "188": {
             "frb": "FRB 20181117C",
             "utc": "2018-11-17 7:48:48",
             "mjd": 58439.32555,
@@ -3179,7 +3196,7 @@
             "snr": 28.3,
             "reference": "http://chime-frb.ca/catalog/FRB20181117C"
         },
-        "188": {
+        "189": {
             "frb": "FRB 20181118A",
             "utc": "2018-11-18 5:36:39",
             "mjd": 58440.23379,
@@ -3196,7 +3213,7 @@
             "snr": 10.8,
             "reference": "http://chime-frb.ca/catalog/FRB20181118A"
         },
-        "189": {
+        "190": {
             "frb": "FRB 20181118B",
             "utc": "2018-11-18 8:03:32",
             "mjd": 58440.33579,
@@ -3213,7 +3230,7 @@
             "snr": 18.1,
             "reference": "http://chime-frb.ca/catalog/FRB20181118B"
         },
-        "190": {
+        "191": {
             "frb": "FRB 20181118C",
             "utc": "2018-11-18 8:44:49",
             "mjd": 58440.36446,
@@ -3230,7 +3247,7 @@
             "snr": 10.3,
             "reference": "http://chime-frb.ca/catalog/FRB20181118C"
         },
-        "191": {
+        "192": {
             "frb": "FRB 20181118D",
             "utc": "2018-11-18 21:07:12",
             "mjd": 58440.87765,
@@ -3247,7 +3264,7 @@
             "snr": 11.1,
             "reference": "https://arxiv.org/2102.10546"
         },
-        "192": {
+        "193": {
             "frb": "FRB 20181119A",
             "utc": "2018-11-19 16:49:03",
             "mjd": 58441.70073,
@@ -3264,7 +3281,7 @@
             "snr": 11.1,
             "reference": "http://chime-frb.ca/catalog/FRB20181119A"
         },
-        "193": {
+        "194": {
             "frb": "FRB 20181119B",
             "utc": "2018-11-19 0:05:01",
             "mjd": 58441.00348,
@@ -3281,7 +3298,7 @@
             "snr": 49.9,
             "reference": "http://chime-frb.ca/catalog/FRB20181119B"
         },
-        "194": {
+        "195": {
             "frb": "FRB 20181119C",
             "utc": "2018-11-19 17:06:29",
             "mjd": 58441.71284,
@@ -3298,7 +3315,7 @@
             "snr": 27.0,
             "reference": "http://chime-frb.ca/catalog/FRB20181119C"
         },
-        "195": {
+        "196": {
             "frb": "FRB 20181119D",
             "utc": "2018-11-19 9:38:42",
             "mjd": 58441.40187,
@@ -3315,7 +3332,7 @@
             "snr": 23.7,
             "reference": "http://chime-frb.ca/catalog/FRB20181119D"
         },
-        "196": {
+        "197": {
             "frb": "FRB 20181119E",
             "utc": "2018-11-19 5:15:43",
             "mjd": 58441.21925,
@@ -3332,7 +3349,7 @@
             "snr": 11.2,
             "reference": "http://chime-frb.ca/catalog/FRB20181119E"
         },
-        "197": {
+        "198": {
             "frb": "FRB 20181120A",
             "utc": "2018-11-20 5:56:06",
             "mjd": 58442.24729,
@@ -3349,7 +3366,7 @@
             "snr": 13.37,
             "reference": "https://www.wis-tns.org/object/20181120a"
         },
-        "198": {
+        "199": {
             "frb": "FRB 20181120B",
             "utc": "2018-11-20 5:56:06",
             "mjd": 58442.24729,
@@ -3366,7 +3383,7 @@
             "snr": 13.4,
             "reference": "http://chime-frb.ca/catalog/FRB20181120B"
         },
-        "199": {
+        "200": {
             "frb": "FRB 20181120C",
             "utc": "2018-11-20 8:25:28",
             "mjd": 58442.35102,
@@ -3383,7 +3400,7 @@
             "snr": 10.6,
             "reference": "http://chime-frb.ca/catalog/FRB20181120C"
         },
-        "200": {
+        "201": {
             "frb": "FRB 20181122A",
             "utc": "2018-11-22 7:52:11",
             "mjd": 58444.32791,
@@ -3400,7 +3417,7 @@
             "snr": 12.2,
             "reference": "http://chime-frb.ca/catalog/FRB20181122A"
         },
-        "201": {
+        "202": {
             "frb": "FRB 20181122B",
             "utc": "2018-11-22 10:17:50",
             "mjd": 58444.42905,
@@ -3417,7 +3434,7 @@
             "snr": 64.9,
             "reference": "http://chime-frb.ca/catalog/FRB20181122B"
         },
-        "202": {
+        "203": {
             "frb": "FRB 20181123A",
             "utc": "2018-11-23 23:51:48",
             "mjd": 58445.9943,
@@ -3434,7 +3451,7 @@
             "snr": 17.0,
             "reference": "http://chime-frb.ca/catalog/FRB20181123A"
         },
-        "203": {
+        "204": {
             "frb": "FRB 20181123B",
             "utc": "2018-11-23 17:49:09",
             "mjd": 58445.74247,
@@ -3451,7 +3468,7 @@
             "snr": null,
             "reference": "https://www.wis-tns.org/object/20181123b"
         },
-        "204": {
+        "205": {
             "frb": "FRB 20181124A",
             "utc": "2018-11-24 15:29:07",
             "mjd": 58446.64522,
@@ -3468,7 +3485,7 @@
             "snr": 10.4,
             "reference": "http://chime-frb.ca/catalog/FRB20181124A"
         },
-        "205": {
+        "206": {
             "frb": "FRB 20181124B",
             "utc": "2018-11-24 1:03:39",
             "mjd": 58446.0442,
@@ -3485,7 +3502,7 @@
             "snr": 29.0,
             "reference": "http://chime-frb.ca/catalog/FRB20181124B"
         },
-        "206": {
+        "207": {
             "frb": "FRB 20181125A",
             "utc": "2018-11-25 13:37:31",
             "mjd": 58447.56772,
@@ -3502,7 +3519,7 @@
             "snr": 18.3,
             "reference": "http://chime-frb.ca/catalog/FRB20181125A"
         },
-        "207": {
+        "208": {
             "frb": "FRB 20181126A",
             "utc": "2018-11-26 21:00:50",
             "mjd": 58448.87558,
@@ -3519,7 +3536,7 @@
             "snr": 51.6,
             "reference": "http://chime-frb.ca/catalog/FRB20181126A"
         },
-        "208": {
+        "209": {
             "frb": "FRB 20181127A",
             "utc": "2018-11-27 19:46:09",
             "mjd": 58449.82372,
@@ -3536,7 +3553,7 @@
             "snr": 15.7,
             "reference": "http://chime-frb.ca/catalog/FRB20181127A"
         },
-        "209": {
+        "210": {
             "frb": "FRB 20181128A",
             "utc": "2018-11-28 8:27:42",
             "mjd": 58450.35257,
@@ -3553,7 +3570,7 @@
             "snr": 23.4,
             "reference": "http://chime-frb.ca/catalog/FRB20181128A"
         },
-        "210": {
+        "211": {
             "frb": "FRB 20181128B",
             "utc": "2018-11-28 14:02:56",
             "mjd": 58450.58537,
@@ -3570,7 +3587,7 @@
             "snr": 13.3,
             "reference": "http://chime-frb.ca/catalog/FRB20181128B"
         },
-        "211": {
+        "212": {
             "frb": "FRB 20181128C",
             "utc": "2018-11-28 21:21:49",
             "mjd": 58450.89015,
@@ -3587,7 +3604,7 @@
             "snr": 11.0,
             "reference": "http://chime-frb.ca/catalog/FRB20181128C"
         },
-        "212": {
+        "213": {
             "frb": "FRB 20181128D",
             "utc": "2018-11-28 17:53:23",
             "mjd": 58450.74541,
@@ -3604,7 +3621,7 @@
             "snr": 47.0,
             "reference": "http://chime-frb.ca/catalog/FRB20181128D"
         },
-        "213": {
+        "214": {
             "frb": "FRB 20181129A",
             "utc": "2018-11-29 3:08:06",
             "mjd": 58451.13063,
@@ -3621,7 +3638,7 @@
             "snr": 25.4,
             "reference": "http://chime-frb.ca/catalog/FRB20181129A"
         },
-        "214": {
+        "215": {
             "frb": "FRB 20181129B",
             "utc": "2018-11-29 11:33:37",
             "mjd": 58451.48168,
@@ -3638,7 +3655,7 @@
             "snr": 11.8,
             "reference": "http://chime-frb.ca/catalog/FRB20181129B"
         },
-        "215": {
+        "216": {
             "frb": "FRB 20181129C",
             "utc": "2018-11-29 19:00:24",
             "mjd": 58451.79195,
@@ -3655,7 +3672,7 @@
             "snr": 18.3,
             "reference": "http://chime-frb.ca/catalog/FRB20181129C"
         },
-        "216": {
+        "217": {
             "frb": "FRB 20181130A",
             "utc": "2018-11-30 3:03:09",
             "mjd": 58452.12719,
@@ -3672,7 +3689,7 @@
             "snr": 20.9,
             "reference": "http://chime-frb.ca/catalog/FRB20181130A"
         },
-        "217": {
+        "218": {
             "frb": "FRB 20181130B",
             "utc": "2018-11-30 12:57:36",
             "mjd": 58452.54267,
@@ -3689,7 +3706,7 @@
             "snr": 30.9,
             "reference": "https://arxiv.org/2102.10546"
         },
-        "218": {
+        "219": {
             "frb": "FRB 20181201A",
             "utc": "2018-12-01 17:39:05",
             "mjd": 58453.73548,
@@ -3706,7 +3723,7 @@
             "snr": 17.8,
             "reference": "http://chime-frb.ca/catalog/FRB20181201A"
         },
-        "219": {
+        "220": {
             "frb": "FRB 20181201B",
             "utc": "2018-12-01 21:26:35",
             "mjd": 58453.89346,
@@ -3723,7 +3740,7 @@
             "snr": 14.2,
             "reference": "http://chime-frb.ca/catalog/FRB20181201B"
         },
-        "220": {
+        "221": {
             "frb": "FRB 20181202A",
             "utc": "2018-12-02 2:41:42",
             "mjd": 58454.11229,
@@ -3740,7 +3757,7 @@
             "snr": 27.0,
             "reference": "http://chime-frb.ca/catalog/FRB20181202A"
         },
-        "221": {
+        "222": {
             "frb": "FRB 20181202B",
             "utc": "2018-12-02 16:44:21",
             "mjd": 58454.69746,
@@ -3757,7 +3774,7 @@
             "snr": 16.1,
             "reference": "http://chime-frb.ca/catalog/FRB20181202B"
         },
-        "222": {
+        "223": {
             "frb": "FRB 20181202C",
             "utc": "2018-12-02 23:37:09",
             "mjd": 58454.98413,
@@ -3774,7 +3791,7 @@
             "snr": 10.4,
             "reference": "http://chime-frb.ca/catalog/FRB20181202C"
         },
-        "223": {
+        "224": {
             "frb": "FRB 20181203A",
             "utc": "2018-12-03 5:25:15",
             "mjd": 58455.22587,
@@ -3791,7 +3808,7 @@
             "snr": 19.2,
             "reference": "http://chime-frb.ca/catalog/FRB20181203A"
         },
-        "224": {
+        "225": {
             "frb": "FRB 20181203B",
             "utc": "2018-12-03 6:23:17",
             "mjd": 58455.26617,
@@ -3808,7 +3825,7 @@
             "snr": 25.6,
             "reference": "http://chime-frb.ca/catalog/FRB20181203B"
         },
-        "225": {
+        "226": {
             "frb": "FRB 20181203C",
             "utc": "2018-12-03 16:16:50",
             "mjd": 58455.67836,
@@ -3825,7 +3842,7 @@
             "snr": 10.3,
             "reference": "http://chime-frb.ca/catalog/FRB20181203C"
         },
-        "226": {
+        "227": {
             "frb": "FRB 20181208A",
             "utc": "2018-12-08 20:33:03",
             "mjd": 58460.85629,
@@ -3842,7 +3859,7 @@
             "snr": 22.3,
             "reference": "http://chime-frb.ca/catalog/FRB20181208A"
         },
-        "227": {
+        "228": {
             "frb": "FRB 20181209A",
             "utc": "2018-12-09 9:24:52",
             "mjd": 58461.39227,
@@ -3859,7 +3876,7 @@
             "snr": 24.2,
             "reference": "http://chime-frb.ca/catalog/FRB20181209A"
         },
-        "228": {
+        "229": {
             "frb": "FRB 20181213A",
             "utc": "2018-12-13 11:08:10",
             "mjd": 58465.46401,
@@ -3876,7 +3893,7 @@
             "snr": 16.1,
             "reference": "http://chime-frb.ca/catalog/FRB20181213A"
         },
-        "229": {
+        "230": {
             "frb": "FRB 20181213B",
             "utc": "2018-12-13 14:47:14",
             "mjd": 58465.61613,
@@ -3893,7 +3910,7 @@
             "snr": 12.3,
             "reference": "http://chime-frb.ca/catalog/FRB20181213B"
         },
-        "230": {
+        "231": {
             "frb": "FRB 20181213C",
             "utc": "2018-12-13 17:00:20",
             "mjd": 58465.70857,
@@ -3910,7 +3927,7 @@
             "snr": 11.7,
             "reference": "http://chime-frb.ca/catalog/FRB20181213C"
         },
-        "231": {
+        "232": {
             "frb": "FRB 20181214A",
             "utc": "2018-12-14 7:08:15",
             "mjd": 58466.2974,
@@ -3927,7 +3944,7 @@
             "snr": 25.4,
             "reference": "http://chime-frb.ca/catalog/FRB20181214A"
         },
-        "232": {
+        "233": {
             "frb": "FRB 20181214B",
             "utc": "2018-12-14 11:40:21",
             "mjd": 58466.48635,
@@ -3944,7 +3961,7 @@
             "snr": 10.2,
             "reference": "http://chime-frb.ca/catalog/FRB20181214B"
         },
-        "233": {
+        "234": {
             "frb": "FRB 20181214C",
             "utc": "2018-12-14 14:16:32",
             "mjd": 58466.59482,
@@ -3961,7 +3978,7 @@
             "snr": 29.1,
             "reference": "http://chime-frb.ca/catalog/FRB20181214C"
         },
-        "234": {
+        "235": {
             "frb": "FRB 20181214D",
             "utc": "2018-12-14 14:20:56",
             "mjd": 58466.59787,
@@ -3978,7 +3995,7 @@
             "snr": 18.2,
             "reference": "http://chime-frb.ca/catalog/FRB20181214D"
         },
-        "235": {
+        "236": {
             "frb": "FRB 20181214F",
             "utc": "2018-12-14 19:19:08",
             "mjd": 58466.80495,
@@ -3995,7 +4012,7 @@
             "snr": 11.0,
             "reference": "http://chime-frb.ca/catalog/FRB20181214F"
         },
-        "236": {
+        "237": {
             "frb": "FRB 20181215A",
             "utc": "2018-12-15 8:39:37",
             "mjd": 58467.36085,
@@ -4012,7 +4029,7 @@
             "snr": 9.2,
             "reference": "http://chime-frb.ca/catalog/FRB20181215A"
         },
-        "237": {
+        "238": {
             "frb": "FRB 20181215B",
             "utc": "2018-12-15 19:20:44",
             "mjd": 58467.80607,
@@ -4029,7 +4046,7 @@
             "snr": 24.8,
             "reference": "http://chime-frb.ca/catalog/FRB20181215B"
         },
-        "238": {
+        "239": {
             "frb": "FRB 20181216A",
             "utc": "2018-12-16 22:44:42",
             "mjd": 58468.94771,
@@ -4046,7 +4063,7 @@
             "snr": 11.0,
             "reference": "http://chime-frb.ca/catalog/FRB20181216A"
         },
-        "239": {
+        "240": {
             "frb": "FRB 20181217A",
             "utc": "2018-12-17 21:34:49",
             "mjd": 58469.89918,
@@ -4063,7 +4080,7 @@
             "snr": 12.5,
             "reference": "http://chime-frb.ca/catalog/FRB20181217A"
         },
-        "240": {
+        "241": {
             "frb": "FRB 20181218A",
             "utc": "2018-12-18 2:37:47",
             "mjd": 58470.10957,
@@ -4080,7 +4097,7 @@
             "snr": 18.6,
             "reference": "http://chime-frb.ca/catalog/FRB20181218A"
         },
-        "241": {
+        "242": {
             "frb": "FRB 20181218B",
             "utc": "2018-12-18 3:34:09",
             "mjd": 58470.14871,
@@ -4097,7 +4114,7 @@
             "snr": 10.9,
             "reference": "http://chime-frb.ca/catalog/FRB20181218B"
         },
-        "242": {
+        "243": {
             "frb": "FRB 20181218C",
             "utc": "2018-12-18 21:15:57",
             "mjd": 58470.88608,
@@ -4114,7 +4131,7 @@
             "snr": 9.2,
             "reference": "http://chime-frb.ca/catalog/FRB20181218C"
         },
-        "243": {
+        "244": {
             "frb": "FRB 20181219A",
             "utc": "2018-12-19 7:04:42",
             "mjd": 58471.29493,
@@ -4131,7 +4148,7 @@
             "snr": 10.2,
             "reference": "http://chime-frb.ca/catalog/FRB20181219A"
         },
-        "244": {
+        "245": {
             "frb": "FRB 20181219B",
             "utc": "2018-12-19 2:07:51",
             "mjd": 58471.08878,
@@ -4148,7 +4165,7 @@
             "snr": 23.1,
             "reference": "http://chime-frb.ca/catalog/FRB20181219B"
         },
-        "245": {
+        "246": {
             "frb": "FRB 20181219C",
             "utc": "2018-12-19 3:21:39",
             "mjd": 58471.14003,
@@ -4165,7 +4182,7 @@
             "snr": 18.6,
             "reference": "http://chime-frb.ca/catalog/FRB20181219C"
         },
-        "246": {
+        "247": {
             "frb": "FRB 20181220A",
             "utc": "2018-12-20 1:07:11",
             "mjd": 58472.04666,
@@ -4182,7 +4199,7 @@
             "snr": 27.6,
             "reference": "http://chime-frb.ca/catalog/FRB20181220A"
         },
-        "247": {
+        "248": {
             "frb": "FRB 20181220B",
             "utc": "2018-12-20 8:30:53",
             "mjd": 58472.35478,
@@ -4199,7 +4216,7 @@
             "snr": 13.4,
             "reference": "http://chime-frb.ca/catalog/FRB20181220B"
         },
-        "248": {
+        "249": {
             "frb": "FRB 20181221A",
             "utc": "2018-12-21 17:22:35",
             "mjd": 58473.72402,
@@ -4216,7 +4233,7 @@
             "snr": 18.6,
             "reference": "http://chime-frb.ca/catalog/FRB20181221A"
         },
-        "249": {
+        "250": {
             "frb": "FRB 20181221B",
             "utc": "2018-12-21 22:35:40",
             "mjd": 58473.94144,
@@ -4233,7 +4250,7 @@
             "snr": 26.7,
             "reference": "http://chime-frb.ca/catalog/FRB20181221B"
         },
-        "250": {
+        "251": {
             "frb": "FRB 20181222A",
             "utc": "2018-12-22 3:59:23",
             "mjd": 58474.16624,
@@ -4250,7 +4267,7 @@
             "snr": 24.0,
             "reference": "http://chime-frb.ca/catalog/FRB20181222A"
         },
-        "251": {
+        "252": {
             "frb": "FRB 20181222B",
             "utc": "2018-12-22 7:54:37",
             "mjd": 58474.3296,
@@ -4267,7 +4284,7 @@
             "snr": 9.5,
             "reference": "http://chime-frb.ca/catalog/FRB20181222B"
         },
-        "252": {
+        "253": {
             "frb": "FRB 20181222C",
             "utc": "2018-12-22 10:49:11",
             "mjd": 58474.45082,
@@ -4284,7 +4301,7 @@
             "snr": 11.0,
             "reference": "http://chime-frb.ca/catalog/FRB20181222C"
         },
-        "253": {
+        "254": {
             "frb": "FRB 20181222D",
             "utc": "2018-12-22 14:33:32",
             "mjd": 58474.60662,
@@ -4301,7 +4318,7 @@
             "snr": 10.5,
             "reference": "http://chime-frb.ca/catalog/FRB20181222D"
         },
-        "254": {
+        "255": {
             "frb": "FRB 20181222E",
             "utc": "2018-12-22 17:15:13",
             "mjd": 58474.7189,
@@ -4318,7 +4335,7 @@
             "snr": 17.7,
             "reference": "http://chime-frb.ca/catalog/FRB20181222E"
         },
-        "255": {
+        "256": {
             "frb": "FRB 20181223A",
             "utc": "2018-12-23 3:51:29",
             "mjd": 58475.16075,
@@ -4335,7 +4352,7 @@
             "snr": 31.8,
             "reference": "http://chime-frb.ca/catalog/FRB20181223A"
         },
-        "256": {
+        "257": {
             "frb": "FRB 20181223B",
             "utc": "2018-12-23 13:31:00",
             "mjd": 58475.56319,
@@ -4352,7 +4369,7 @@
             "snr": 12.4,
             "reference": "http://chime-frb.ca/catalog/FRB20181223B"
         },
-        "257": {
+        "258": {
             "frb": "FRB 20181223C",
             "utc": "2018-12-23 13:55:32",
             "mjd": 58475.58023,
@@ -4369,7 +4386,7 @@
             "snr": 19.5,
             "reference": "http://chime-frb.ca/catalog/FRB20181223C"
         },
-        "258": {
+        "259": {
             "frb": "FRB 20181224A",
             "utc": "2018-12-24 1:28:53",
             "mjd": 58476.06173,
@@ -4386,7 +4403,7 @@
             "snr": 65.0,
             "reference": "http://chime-frb.ca/catalog/FRB20181224A"
         },
-        "259": {
+        "260": {
             "frb": "FRB 20181224B",
             "utc": "2018-12-24 4:52:51",
             "mjd": 58476.20337,
@@ -4403,7 +4420,7 @@
             "snr": 14.0,
             "reference": "http://chime-frb.ca/catalog/FRB20181224B"
         },
-        "260": {
+        "261": {
             "frb": "FRB 20181224C",
             "utc": "2018-12-24 9:36:15",
             "mjd": 58476.40017,
@@ -4420,7 +4437,7 @@
             "snr": 13.3,
             "reference": "http://chime-frb.ca/catalog/FRB20181224C"
         },
-        "261": {
+        "262": {
             "frb": "FRB 20181224D",
             "utc": "2018-12-24 13:59:51",
             "mjd": 58476.58323,
@@ -4437,7 +4454,7 @@
             "snr": 11.2,
             "reference": "http://chime-frb.ca/catalog/FRB20181224D"
         },
-        "262": {
+        "263": {
             "frb": "FRB 20181224E",
             "utc": "2018-12-24 17:45:06",
             "mjd": 58476.73965,
@@ -4454,7 +4471,7 @@
             "snr": 32.4,
             "reference": "http://chime-frb.ca/catalog/FRB20181224E"
         },
-        "263": {
+        "264": {
             "frb": "FRB 20181225A",
             "utc": "2018-12-25 3:53:04",
             "mjd": 58477.16185,
@@ -4471,7 +4488,7 @@
             "snr": 16.2,
             "reference": "http://chime-frb.ca/catalog/FRB20181225A"
         },
-        "264": {
+        "265": {
             "frb": "FRB 20181225B",
             "utc": "2018-12-25 5:09:49",
             "mjd": 58477.21515,
@@ -4488,7 +4505,7 @@
             "snr": 19.1,
             "reference": "http://chime-frb.ca/catalog/FRB20181225B"
         },
-        "265": {
+        "266": {
             "frb": "FRB 20181226A",
             "utc": "2018-12-26 3:43:30",
             "mjd": 58478.15521,
@@ -4505,7 +4522,7 @@
             "snr": 16.7,
             "reference": "http://chime-frb.ca/catalog/FRB20181226A"
         },
-        "266": {
+        "267": {
             "frb": "FRB 20181226B",
             "utc": "2018-12-26 13:50:55",
             "mjd": 58478.57703,
@@ -4522,7 +4539,7 @@
             "snr": 52.4,
             "reference": "http://chime-frb.ca/catalog/FRB20181226B"
         },
-        "267": {
+        "268": {
             "frb": "FRB 20181226C",
             "utc": "2018-12-26 1:02:09",
             "mjd": 58478.04316,
@@ -4539,7 +4556,7 @@
             "snr": 18.8,
             "reference": "http://chime-frb.ca/catalog/FRB20181226C"
         },
-        "268": {
+        "269": {
             "frb": "FRB 20181226D",
             "utc": "2018-12-26 9:41:16",
             "mjd": 58478.40366,
@@ -4556,7 +4573,7 @@
             "snr": 24.2,
             "reference": "http://chime-frb.ca/catalog/FRB20181226D"
         },
-        "269": {
+        "270": {
             "frb": "FRB 20181226E",
             "utc": "2018-12-26 21:50:46",
             "mjd": 58478.91026,
@@ -4573,7 +4590,7 @@
             "snr": 16.5,
             "reference": "http://chime-frb.ca/catalog/FRB20181226E"
         },
-        "270": {
+        "271": {
             "frb": "FRB 20181227A",
             "utc": "2018-12-27 3:44:42",
             "mjd": 58479.15604,
@@ -4590,7 +4607,7 @@
             "snr": 9.2,
             "reference": "http://chime-frb.ca/catalog/FRB20181227A"
         },
-        "271": {
+        "272": {
             "frb": "FRB 20181228A",
             "utc": "2018-12-28 2:02:42",
             "mjd": 58480.08521,
@@ -4607,7 +4624,7 @@
             "snr": 12.6,
             "reference": "http://chime-frb.ca/catalog/FRB20181228A"
         },
-        "272": {
+        "273": {
             "frb": "FRB 20181228B",
             "utc": "2018-12-28 18:07:56",
             "mjd": 58480.75551,
@@ -4624,7 +4641,7 @@
             "snr": 15.5,
             "reference": "http://chime-frb.ca/catalog/FRB20181228B"
         },
-        "273": {
+        "274": {
             "frb": "FRB 20181228C",
             "utc": "2018-12-28 19:16:20",
             "mjd": 58480.80301,
@@ -4641,7 +4658,7 @@
             "snr": 11.1,
             "reference": "http://chime-frb.ca/catalog/FRB20181228C"
         },
-        "274": {
+        "275": {
             "frb": "FRB 20181228D",
             "utc": "2018-12-28 13:48:50",
             "mjd": 58480.57558,
@@ -4658,7 +4675,7 @@
             "snr": null,
             "reference": "https://www.wis-tns.org/object/20181228d"
         },
-        "275": {
+        "276": {
             "frb": "FRB 20181229A",
             "utc": "2018-12-29 10:34:58",
             "mjd": 58481.44095,
@@ -4675,7 +4692,7 @@
             "snr": 23.6,
             "reference": "http://chime-frb.ca/catalog/FRB20181229A"
         },
-        "276": {
+        "277": {
             "frb": "FRB 20181229B",
             "utc": "2018-12-29 17:23:56",
             "mjd": 58481.72495,
@@ -4692,7 +4709,7 @@
             "snr": 11.1,
             "reference": "http://chime-frb.ca/catalog/FRB20181229B"
         },
-        "277": {
+        "278": {
             "frb": "FRB 20181230A",
             "utc": "2018-12-30 0:30:16",
             "mjd": 58482.02102,
@@ -4709,7 +4726,7 @@
             "snr": 14.1,
             "reference": "http://chime-frb.ca/catalog/FRB20181230A"
         },
-        "278": {
+        "279": {
             "frb": "FRB 20181230B",
             "utc": "2018-12-30 2:39:32",
             "mjd": 58482.11079,
@@ -4726,7 +4743,7 @@
             "snr": 12.8,
             "reference": "http://chime-frb.ca/catalog/FRB20181230B"
         },
-        "279": {
+        "280": {
             "frb": "FRB 20181230C",
             "utc": "2018-12-30 17:42:56",
             "mjd": 58482.73815,
@@ -4743,7 +4760,7 @@
             "snr": 14.3,
             "reference": "http://chime-frb.ca/catalog/FRB20181230C"
         },
-        "280": {
+        "281": {
             "frb": "FRB 20181230D",
             "utc": "2018-12-30 18:23:35",
             "mjd": 58482.76638,
@@ -4760,7 +4777,7 @@
             "snr": 13.3,
             "reference": "http://chime-frb.ca/catalog/FRB20181230D"
         },
-        "281": {
+        "282": {
             "frb": "FRB 20181230E",
             "utc": "2018-12-30 20:37:24",
             "mjd": 58482.85931,
@@ -4777,7 +4794,7 @@
             "snr": 13.9,
             "reference": "http://chime-frb.ca/catalog/FRB20181230E"
         },
-        "282": {
+        "283": {
             "frb": "FRB 20181231A",
             "utc": "2018-12-31 3:18:47",
             "mjd": 58483.13804,
@@ -4794,7 +4811,7 @@
             "snr": 28.3,
             "reference": "http://chime-frb.ca/catalog/FRB20181231A"
         },
-        "283": {
+        "284": {
             "frb": "FRB 20181231B",
             "utc": "2018-12-31 9:55:59",
             "mjd": 58483.41388,
@@ -4811,7 +4828,7 @@
             "snr": 33.2,
             "reference": "http://chime-frb.ca/catalog/FRB20181231B"
         },
-        "284": {
+        "285": {
             "frb": "FRB 20181231C",
             "utc": "2018-12-31 14:36:18",
             "mjd": 58483.60854,
@@ -4828,7 +4845,7 @@
             "snr": 18.2,
             "reference": "http://chime-frb.ca/catalog/FRB20181231C"
         },
-        "285": {
+        "286": {
             "frb": "FRB 20190101A",
             "utc": "2019-01-01 12:40:10",
             "mjd": 58484.52789,
@@ -4845,7 +4862,7 @@
             "snr": 17.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190101A"
         },
-        "286": {
+        "287": {
             "frb": "FRB 20190101B",
             "utc": "2019-01-01 21:43:32",
             "mjd": 58484.90523,
@@ -4862,7 +4879,7 @@
             "snr": 14.0,
             "reference": "http://chime-frb.ca/catalog/FRB20190101B"
         },
-        "287": {
+        "288": {
             "frb": "FRB 20190102A",
             "utc": "2019-01-02 1:49:13",
             "mjd": 58485.07585,
@@ -4879,7 +4896,7 @@
             "snr": 22.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190102A"
         },
-        "288": {
+        "289": {
             "frb": "FRB 20190102B",
             "utc": "2019-01-02 2:43:54",
             "mjd": 58485.11382,
@@ -4896,7 +4913,7 @@
             "snr": 22.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190102B"
         },
-        "289": {
+        "290": {
             "frb": "FRB 20190102C",
             "utc": "2019-01-02 5:38:43",
             "mjd": 58485.23522,
@@ -4913,7 +4930,7 @@
             "snr": 14.0,
             "reference": "https://www.wis-tns.org/object/20190102c"
         },
-        "290": {
+        "291": {
             "frb": "FRB 20190103A",
             "utc": "2019-01-03 13:47:24",
             "mjd": 58486.57458,
@@ -4930,7 +4947,7 @@
             "snr": 15.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190103A"
         },
-        "291": {
+        "292": {
             "frb": "FRB 20190103B",
             "utc": "2019-01-03 7:25:59",
             "mjd": 58486.30971,
@@ -4947,7 +4964,7 @@
             "snr": 15.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190103B"
         },
-        "292": {
+        "293": {
             "frb": "FRB 20190103C",
             "utc": "2019-01-03 8:05:51",
             "mjd": 58486.3374,
@@ -4964,7 +4981,7 @@
             "snr": 25.1,
             "reference": "http://chime-frb.ca/catalog/FRB20190103C"
         },
-        "293": {
+        "294": {
             "frb": "FRB 20190103D",
             "utc": "2019-01-03 16:00:46",
             "mjd": 58486.6672,
@@ -4981,7 +4998,7 @@
             "snr": 10.5,
             "reference": "http://chime-frb.ca/catalog/FRB20190103D"
         },
-        "294": {
+        "295": {
             "frb": "FRB 20190103E",
             "utc": "2019-01-03 18:38:15",
             "mjd": 58486.77656,
@@ -4998,7 +5015,7 @@
             "snr": 9.1,
             "reference": "http://chime-frb.ca/catalog/FRB20190103E"
         },
-        "295": {
+        "296": {
             "frb": "FRB 20190104A",
             "utc": "2019-01-04 5:49:34",
             "mjd": 58487.24276,
@@ -5015,7 +5032,7 @@
             "snr": 17.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190104A"
         },
-        "296": {
+        "297": {
             "frb": "FRB 20190104B",
             "utc": "2019-01-04 16:45:54",
             "mjd": 58487.69854,
@@ -5032,7 +5049,7 @@
             "snr": 9.8,
             "reference": "http://chime-frb.ca/catalog/FRB20190104B"
         },
-        "297": {
+        "298": {
             "frb": "FRB 20190105A",
             "utc": "2019-01-05 18:39:35",
             "mjd": 58488.77749,
@@ -5049,7 +5066,7 @@
             "snr": 10.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190105A"
         },
-        "298": {
+        "299": {
             "frb": "FRB 20190106A",
             "utc": "2019-01-06 2:29:11",
             "mjd": 58489.1036,
@@ -5066,7 +5083,7 @@
             "snr": 9.6,
             "reference": "http://chime-frb.ca/catalog/FRB20190106A"
         },
-        "299": {
+        "300": {
             "frb": "FRB 20190106B",
             "utc": "2019-01-06 23:21:18",
             "mjd": 58489.97313,
@@ -5083,7 +5100,7 @@
             "snr": 41.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190106B"
         },
-        "300": {
+        "301": {
             "frb": "FRB 20190107A",
             "utc": "2019-01-07 1:01:19",
             "mjd": 58490.04258,
@@ -5100,7 +5117,7 @@
             "snr": 9.0,
             "reference": "http://chime-frb.ca/catalog/FRB20190107A"
         },
-        "301": {
+        "302": {
             "frb": "FRB 20190107B",
             "utc": "2019-01-07 3:22:14",
             "mjd": 58490.14044,
@@ -5117,7 +5134,7 @@
             "snr": 20.6,
             "reference": "http://chime-frb.ca/catalog/FRB20190107B"
         },
-        "302": {
+        "303": {
             "frb": "FRB 20190109A",
             "utc": "2019-01-09 8:00:31",
             "mjd": 58492.33369,
@@ -5134,7 +5151,7 @@
             "snr": 9.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190109A"
         },
-        "303": {
+        "304": {
             "frb": "FRB 20190109B",
             "utc": "2019-01-09 17:36:02",
             "mjd": 58492.73336,
@@ -5151,7 +5168,7 @@
             "snr": 11.6,
             "reference": "http://chime-frb.ca/catalog/FRB20190109B"
         },
-        "304": {
+        "305": {
             "frb": "FRB 20190110A",
             "utc": "2019-01-10 5:05:35",
             "mjd": 58493.21221,
@@ -5168,7 +5185,7 @@
             "snr": 29.1,
             "reference": "http://chime-frb.ca/catalog/FRB20190110A"
         },
-        "305": {
+        "306": {
             "frb": "FRB 20190110B",
             "utc": "2019-01-10 9:28:06",
             "mjd": 58493.39451,
@@ -5185,7 +5202,7 @@
             "snr": 12.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190110B"
         },
-        "306": {
+        "307": {
             "frb": "FRB 20190110C",
             "utc": "2019-01-10 17:11:02",
             "mjd": 58493.716,
@@ -5202,7 +5219,7 @@
             "snr": 15.6,
             "reference": "http://chime-frb.ca/catalog/FRB20190110C"
         },
-        "307": {
+        "308": {
             "frb": "FRB 20190111A",
             "utc": "2019-01-11 15:05:51",
             "mjd": 58494.62906,
@@ -5219,7 +5236,7 @@
             "snr": 64.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190111A"
         },
-        "308": {
+        "309": {
             "frb": "FRB 20190111B",
             "utc": "2019-01-11 17:59:02",
             "mjd": 58494.74933,
@@ -5236,7 +5253,7 @@
             "snr": 24.1,
             "reference": "http://chime-frb.ca/catalog/FRB20190111B"
         },
-        "309": {
+        "310": {
             "frb": "FRB 20190112A",
             "utc": "2019-01-12 17:41:31",
             "mjd": 58495.73717,
@@ -5253,7 +5270,7 @@
             "snr": 27.8,
             "reference": "http://chime-frb.ca/catalog/FRB20190112A"
         },
-        "310": {
+        "311": {
             "frb": "FRB 20190113A",
             "utc": "2019-01-13 7:40:32",
             "mjd": 58496.31981,
@@ -5270,7 +5287,7 @@
             "snr": 10.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190113A"
         },
-        "311": {
+        "312": {
             "frb": "FRB 20190114A",
             "utc": "2019-01-14 1:06:00",
             "mjd": 58497.04583,
@@ -5287,7 +5304,7 @@
             "snr": 11.5,
             "reference": "http://chime-frb.ca/catalog/FRB20190114A"
         },
-        "312": {
+        "313": {
             "frb": "FRB 20190115A",
             "utc": "2019-01-15 3:27:49",
             "mjd": 58498.14432,
@@ -5304,7 +5321,7 @@
             "snr": 10.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190115A"
         },
-        "313": {
+        "314": {
             "frb": "FRB 20190115B",
             "utc": "2019-01-15 5:42:41",
             "mjd": 58498.23798,
@@ -5321,7 +5338,7 @@
             "snr": 18.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190115B"
         },
-        "314": {
+        "315": {
             "frb": "FRB 20190116A",
             "utc": "2019-01-16 13:07:34",
             "mjd": 58499.54692,
@@ -5338,7 +5355,7 @@
             "snr": 15.8,
             "reference": "http://chime-frb.ca/catalog/FRB20190116A"
         },
-        "315": {
+        "316": {
             "frb": "FRB 20190116B",
             "utc": "2019-01-16 13:08:21",
             "mjd": 58499.54746,
@@ -5355,7 +5372,7 @@
             "snr": 12.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190116B"
         },
-        "316": {
+        "317": {
             "frb": "FRB 20190116C",
             "utc": "2019-01-16 16:54:14",
             "mjd": 58499.70433,
@@ -5372,7 +5389,7 @@
             "snr": 74.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190116C"
         },
-        "317": {
+        "318": {
             "frb": "FRB 20190116D",
             "utc": "2019-01-16 5:59:09",
             "mjd": 58499.24941,
@@ -5389,7 +5406,7 @@
             "snr": 11.5,
             "reference": "http://chime-frb.ca/catalog/FRB20190116D"
         },
-        "318": {
+        "319": {
             "frb": "FRB 20190116E",
             "utc": "2019-01-16 1:36:13",
             "mjd": 58499.06682,
@@ -5406,7 +5423,7 @@
             "snr": 11.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190116E"
         },
-        "319": {
+        "320": {
             "frb": "FRB 20190116F",
             "utc": "2019-01-16 17:40:37",
             "mjd": 58499.73654,
@@ -5423,7 +5440,7 @@
             "snr": 13.6,
             "reference": "http://chime-frb.ca/catalog/FRB20190116F"
         },
-        "320": {
+        "321": {
             "frb": "FRB 20190117A",
             "utc": "2019-01-17 22:18:32",
             "mjd": 58500.92954,
@@ -5440,7 +5457,7 @@
             "snr": 24.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190117A"
         },
-        "321": {
+        "322": {
             "frb": "FRB 20190117C",
             "utc": "2019-01-17 7:55:06",
             "mjd": 58500.32993,
@@ -5457,7 +5474,7 @@
             "snr": 10.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190117C"
         },
-        "322": {
+        "323": {
             "frb": "FRB 20190117D",
             "utc": "2019-01-17 14:06:02",
             "mjd": 58500.58752,
@@ -5474,7 +5491,7 @@
             "snr": 15.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190117D"
         },
-        "323": {
+        "324": {
             "frb": "FRB 20190118A",
             "utc": "2019-01-18 17:02:16",
             "mjd": 58501.70991,
@@ -5491,7 +5508,7 @@
             "snr": 47.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190118A"
         },
-        "324": {
+        "325": {
             "frb": "FRB 20190118B",
             "utc": "2019-01-18 2:47:48",
             "mjd": 58501.11653,
@@ -5508,7 +5525,7 @@
             "snr": 9.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190118B"
         },
-        "325": {
+        "326": {
             "frb": "FRB 20190121A",
             "utc": "2019-01-21 23:33:29",
             "mjd": 58504.98159,
@@ -5525,7 +5542,7 @@
             "snr": 31.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190121A"
         },
-        "326": {
+        "327": {
             "frb": "FRB 20190122A",
             "utc": "2019-01-22 23:09:40",
             "mjd": 58505.96505,
@@ -5542,7 +5559,7 @@
             "snr": 11.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190122A"
         },
-        "327": {
+        "328": {
             "frb": "FRB 20190122B",
             "utc": "2019-01-22 0:03:23",
             "mjd": 58505.00235,
@@ -5559,7 +5576,7 @@
             "snr": 9.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190122B"
         },
-        "328": {
+        "329": {
             "frb": "FRB 20190122C",
             "utc": "2019-01-22 13:14:23",
             "mjd": 58505.55165,
@@ -5576,7 +5593,7 @@
             "snr": 43.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190122C"
         },
-        "329": {
+        "330": {
             "frb": "FRB 20190124A",
             "utc": "2019-01-24 3:06:15",
             "mjd": 58507.12934,
@@ -5593,7 +5610,7 @@
             "snr": 14.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190124A"
         },
-        "330": {
+        "331": {
             "frb": "FRB 20190124B",
             "utc": "2019-01-24 14:07:34",
             "mjd": 58507.58859,
@@ -5610,7 +5627,7 @@
             "snr": 14.5,
             "reference": "http://chime-frb.ca/catalog/FRB20190124B"
         },
-        "331": {
+        "332": {
             "frb": "FRB 20190124C",
             "utc": "2019-01-24 14:14:23",
             "mjd": 58507.59332,
@@ -5627,7 +5644,7 @@
             "snr": 47.5,
             "reference": "http://chime-frb.ca/catalog/FRB20190124C"
         },
-        "332": {
+        "333": {
             "frb": "FRB 20190124D",
             "utc": "2019-01-24 15:30:30",
             "mjd": 58507.64618,
@@ -5644,7 +5661,7 @@
             "snr": 9.1,
             "reference": "http://chime-frb.ca/catalog/FRB20190124D"
         },
-        "333": {
+        "334": {
             "frb": "FRB 20190124E",
             "utc": "2019-01-24 19:36:51",
             "mjd": 58507.81726,
@@ -5661,7 +5678,7 @@
             "snr": 13.6,
             "reference": "http://chime-frb.ca/catalog/FRB20190124E"
         },
-        "334": {
+        "335": {
             "frb": "FRB 20190124F",
             "utc": "2019-01-24 22:19:33",
             "mjd": 58507.93024,
@@ -5678,7 +5695,7 @@
             "snr": 35.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190124F"
         },
-        "335": {
+        "336": {
             "frb": "FRB 20190125A",
             "utc": "2019-01-25 2:44:17",
             "mjd": 58508.11409,
@@ -5695,7 +5712,7 @@
             "snr": 9.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190125A"
         },
-        "336": {
+        "337": {
             "frb": "FRB 20190125B",
             "utc": "2019-01-25 15:03:39",
             "mjd": 58508.62754,
@@ -5712,7 +5729,7 @@
             "snr": 13.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190125B"
         },
-        "337": {
+        "338": {
             "frb": "FRB 20190126A",
             "utc": "2019-01-26 1:32:45",
             "mjd": 58509.06441,
@@ -5729,7 +5746,7 @@
             "snr": 11.6,
             "reference": "http://chime-frb.ca/catalog/FRB20190126A"
         },
-        "338": {
+        "339": {
             "frb": "FRB 20190127B",
             "utc": "2019-01-27 9:23:21",
             "mjd": 58510.39122,
@@ -5746,7 +5763,7 @@
             "snr": 11.5,
             "reference": "http://chime-frb.ca/catalog/FRB20190127B"
         },
-        "339": {
+        "340": {
             "frb": "FRB 20190128A",
             "utc": "2019-01-28 1:00:35",
             "mjd": 58511.04207,
@@ -5763,7 +5780,7 @@
             "snr": 11.8,
             "reference": "http://chime-frb.ca/catalog/FRB20190128A"
         },
-        "340": {
+        "341": {
             "frb": "FRB 20190128B",
             "utc": "2019-01-28 8:02:02",
             "mjd": 58511.33475,
@@ -5780,7 +5797,7 @@
             "snr": 14.1,
             "reference": "http://chime-frb.ca/catalog/FRB20190128B"
         },
-        "341": {
+        "342": {
             "frb": "FRB 20190128C",
             "utc": "2019-01-28 16:11:23",
             "mjd": 58511.67457,
@@ -5797,7 +5814,7 @@
             "snr": 10.1,
             "reference": "http://chime-frb.ca/catalog/FRB20190128C"
         },
-        "342": {
+        "343": {
             "frb": "FRB 20190128D",
             "utc": "2019-01-28 18:24:34",
             "mjd": 58511.76706,
@@ -5814,7 +5831,7 @@
             "snr": 9.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190128D"
         },
-        "343": {
+        "344": {
             "frb": "FRB 20190129A",
             "utc": "2019-01-29 2:25:50",
             "mjd": 58512.10127,
@@ -5831,7 +5848,7 @@
             "snr": 12.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190129A"
         },
-        "344": {
+        "345": {
             "frb": "FRB 20190130A",
             "utc": "2019-01-30 1:04:38",
             "mjd": 58513.04488,
@@ -5848,7 +5865,7 @@
             "snr": 9.5,
             "reference": "http://chime-frb.ca/catalog/FRB20190130A"
         },
-        "345": {
+        "346": {
             "frb": "FRB 20190130B",
             "utc": "2019-01-30 10:53:48",
             "mjd": 58513.45403,
@@ -5865,7 +5882,7 @@
             "snr": 23.6,
             "reference": "http://chime-frb.ca/catalog/FRB20190130B"
         },
-        "346": {
+        "347": {
             "frb": "FRB 20190131B",
             "utc": "2019-01-31 22:58:30",
             "mjd": 58514.95729,
@@ -5882,7 +5899,7 @@
             "snr": 12.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190131B"
         },
-        "347": {
+        "348": {
             "frb": "FRB 20190131C",
             "utc": "2019-01-31 10:22:23",
             "mjd": 58514.43221,
@@ -5899,7 +5916,7 @@
             "snr": 13.6,
             "reference": "http://chime-frb.ca/catalog/FRB20190131C"
         },
-        "348": {
+        "349": {
             "frb": "FRB 20190131D",
             "utc": "2019-01-31 3:07:31",
             "mjd": 58514.13022,
@@ -5916,7 +5933,7 @@
             "snr": 18.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190131D"
         },
-        "349": {
+        "350": {
             "frb": "FRB 20190131E",
             "utc": "2019-01-31 0:16:48",
             "mjd": 58514.01167,
@@ -5933,7 +5950,7 @@
             "snr": 20.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190131E"
         },
-        "350": {
+        "351": {
             "frb": "FRB 20190201A",
             "utc": "2019-02-01 15:36:13",
             "mjd": 58515.65015,
@@ -5950,7 +5967,7 @@
             "snr": 11.0,
             "reference": "http://chime-frb.ca/catalog/FRB20190201A"
         },
-        "351": {
+        "352": {
             "frb": "FRB 20190201B",
             "utc": "2019-02-01 7:05:08",
             "mjd": 58515.29523,
@@ -5967,7 +5984,7 @@
             "snr": 19.8,
             "reference": "http://chime-frb.ca/catalog/FRB20190201B"
         },
-        "352": {
+        "353": {
             "frb": "FRB 20190202A",
             "utc": "2019-02-02 22:04:08",
             "mjd": 58516.91954,
@@ -5984,7 +6001,7 @@
             "snr": 101.0,
             "reference": "http://chime-frb.ca/catalog/FRB20190202A"
         },
-        "353": {
+        "354": {
             "frb": "FRB 20190202B",
             "utc": "2019-02-02 6:51:06",
             "mjd": 58516.28549,
@@ -6001,7 +6018,7 @@
             "snr": 20.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190202B"
         },
-        "354": {
+        "355": {
             "frb": "FRB 20190203A",
             "utc": "2019-02-03 7:57:14",
             "mjd": 58517.33141,
@@ -6018,7 +6035,7 @@
             "snr": 32.0,
             "reference": "http://chime-frb.ca/catalog/FRB20190203A"
         },
-        "355": {
+        "356": {
             "frb": "FRB 20190203B",
             "utc": "2019-02-03 7:49:39",
             "mjd": 58517.32615,
@@ -6035,7 +6052,7 @@
             "snr": 9.0,
             "reference": "http://chime-frb.ca/catalog/FRB20190203B"
         },
-        "356": {
+        "357": {
             "frb": "FRB 20190203C",
             "utc": "2019-02-03 12:10:09",
             "mjd": 58517.50705,
@@ -6052,7 +6069,7 @@
             "snr": 11.1,
             "reference": "http://chime-frb.ca/catalog/FRB20190203C"
         },
-        "357": {
+        "358": {
             "frb": "FRB 20190204A",
             "utc": "2019-02-04 9:47:48",
             "mjd": 58518.4082,
@@ -6069,7 +6086,7 @@
             "snr": 10.1,
             "reference": "http://chime-frb.ca/catalog/FRB20190204A"
         },
-        "358": {
+        "359": {
             "frb": "FRB 20190204B",
             "utc": "2019-02-04 16:09:17",
             "mjd": 58518.67311,
@@ -6086,7 +6103,7 @@
             "snr": 28.0,
             "reference": "http://chime-frb.ca/catalog/FRB20190204B"
         },
-        "359": {
+        "360": {
             "frb": "FRB 20190205A",
             "utc": "2019-02-05 21:28:19",
             "mjd": 58519.89467,
@@ -6103,7 +6120,7 @@
             "snr": 9.5,
             "reference": "http://chime-frb.ca/catalog/FRB20190205A"
         },
-        "360": {
+        "361": {
             "frb": "FRB 20190206A",
             "utc": "2019-02-06 15:11:24",
             "mjd": 58520.63292,
@@ -6120,7 +6137,7 @@
             "snr": 13.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190206A"
         },
-        "361": {
+        "362": {
             "frb": "FRB 20190206B",
             "utc": "2019-02-06 13:57:47",
             "mjd": 58520.58179,
@@ -6137,7 +6154,7 @@
             "snr": 9.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190206B"
         },
-        "362": {
+        "363": {
             "frb": "FRB 20190206C",
             "utc": "2019-02-06 12:26:43",
             "mjd": 58520.51855,
@@ -6154,7 +6171,7 @@
             "snr": 9.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190206C"
         },
-        "363": {
+        "364": {
             "frb": "FRB 20190208A",
             "utc": "2019-02-08 17:41:50",
             "mjd": 58522.73739,
@@ -6171,7 +6188,7 @@
             "snr": 12.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190208A"
         },
-        "364": {
+        "365": {
             "frb": "FRB 20190208B",
             "utc": "2019-02-08 5:02:49",
             "mjd": 58522.21029,
@@ -6188,7 +6205,7 @@
             "snr": 96.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190208B"
         },
-        "365": {
+        "366": {
             "frb": "FRB 20190208C",
             "utc": "2019-02-08 8:08:05",
             "mjd": 58522.33895,
@@ -6205,7 +6222,7 @@
             "snr": 16.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190208C"
         },
-        "366": {
+        "367": {
             "frb": "FRB 20190209A",
             "utc": "2019-02-09 8:20:21",
             "mjd": 58523.34747,
@@ -6222,7 +6239,7 @@
             "snr": 11.8,
             "reference": "http://chime-frb.ca/catalog/FRB20190209A"
         },
-        "367": {
+        "368": {
             "frb": "FRB 20190210A",
             "utc": "2019-02-10 8:17:14",
             "mjd": 58524.3453,
@@ -6239,7 +6256,7 @@
             "snr": 10.1,
             "reference": "http://chime-frb.ca/catalog/FRB20190210A"
         },
-        "368": {
+        "369": {
             "frb": "FRB 20190210B",
             "utc": "2019-02-10 5:36:32",
             "mjd": 58524.2337,
@@ -6256,7 +6273,7 @@
             "snr": 43.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190210B"
         },
-        "369": {
+        "370": {
             "frb": "FRB 20190210C",
             "utc": "2019-02-10 6:03:44",
             "mjd": 58524.25259,
@@ -6273,7 +6290,7 @@
             "snr": 19.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190210C"
         },
-        "370": {
+        "371": {
             "frb": "FRB 20190210D",
             "utc": "2019-02-10 19:14:51",
             "mjd": 58524.80198,
@@ -6290,7 +6307,7 @@
             "snr": 20.6,
             "reference": "http://chime-frb.ca/catalog/FRB20190210D"
         },
-        "371": {
+        "372": {
             "frb": "FRB 20190210E",
             "utc": "2019-02-10 20:21:59",
             "mjd": 58524.8486,
@@ -6307,7 +6324,7 @@
             "snr": 9.5,
             "reference": "http://chime-frb.ca/catalog/FRB20190210E"
         },
-        "372": {
+        "373": {
             "frb": "FRB 20190211A",
             "utc": "2019-02-11 3:04:55",
             "mjd": 58525.12842,
@@ -6324,7 +6341,7 @@
             "snr": 20.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190211A"
         },
-        "373": {
+        "374": {
             "frb": "FRB 20190211B",
             "utc": "2019-02-11 18:37:46",
             "mjd": 58525.77623,
@@ -6341,7 +6358,7 @@
             "snr": 12.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190211B"
         },
-        "374": {
+        "375": {
             "frb": "FRB 20190212A",
             "utc": "2019-02-12 16:17:23",
             "mjd": 58526.67874,
@@ -6358,7 +6375,7 @@
             "snr": 9.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190212A"
         },
-        "375": {
+        "376": {
             "frb": "FRB 20190212B",
             "utc": "2019-02-12 7:53:59",
             "mjd": 58526.32916,
@@ -6375,7 +6392,7 @@
             "snr": 29.0,
             "reference": "http://chime-frb.ca/catalog/FRB20190212B"
         },
-        "376": {
+        "377": {
             "frb": "FRB 20190212C",
             "utc": "2019-02-12 10:04:51",
             "mjd": 58526.42003,
@@ -6392,7 +6409,7 @@
             "snr": 12.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190212C"
         },
-        "377": {
+        "378": {
             "frb": "FRB 20190212D",
             "utc": "2019-02-12 10:34:05",
             "mjd": 58526.44033,
@@ -6409,7 +6426,7 @@
             "snr": 9.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190212D"
         },
-        "378": {
+        "379": {
             "frb": "FRB 20190213A",
             "utc": "2019-02-13 0:42:27",
             "mjd": 58527.02948,
@@ -6426,7 +6443,7 @@
             "snr": 9.5,
             "reference": "http://chime-frb.ca/catalog/FRB20190213A"
         },
-        "379": {
+        "380": {
             "frb": "FRB 20190213B",
             "utc": "2019-02-13 17:09:33",
             "mjd": 58527.71496,
@@ -6443,7 +6460,7 @@
             "snr": 9.5,
             "reference": "http://chime-frb.ca/catalog/FRB20190213B"
         },
-        "380": {
+        "381": {
             "frb": "FRB 20190213C",
             "utc": "2019-02-13 2:47:46",
             "mjd": 58527.11651,
@@ -6460,7 +6477,7 @@
             "snr": 9.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190213C"
         },
-        "381": {
+        "382": {
             "frb": "FRB 20190213D",
             "utc": "2019-02-13 20:54:17",
             "mjd": 58527.87103,
@@ -6477,7 +6494,7 @@
             "snr": 18.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190213D"
         },
-        "382": {
+        "383": {
             "frb": "FRB 20190214A",
             "utc": "2019-02-14 4:44:47",
             "mjd": 58528.19777,
@@ -6494,7 +6511,7 @@
             "snr": 11.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190214A"
         },
-        "383": {
+        "384": {
             "frb": "FRB 20190214C",
             "utc": "2019-02-14 12:56:57",
             "mjd": 58528.53955,
@@ -6511,7 +6528,7 @@
             "snr": 15.5,
             "reference": "http://chime-frb.ca/catalog/FRB20190214C"
         },
-        "384": {
+        "385": {
             "frb": "FRB 20190215B",
             "utc": "2019-02-15 20:42:02",
             "mjd": 58529.86252,
@@ -6528,7 +6545,7 @@
             "snr": 44.5,
             "reference": "http://chime-frb.ca/catalog/FRB20190215B"
         },
-        "385": {
+        "386": {
             "frb": "FRB 20190216A",
             "utc": "2019-02-16 15:26:58",
             "mjd": 58530.64373,
@@ -6545,7 +6562,7 @@
             "snr": 22.6,
             "reference": "http://chime-frb.ca/catalog/FRB20190216A"
         },
-        "386": {
+        "387": {
             "frb": "FRB 20190217A",
             "utc": "2019-02-17 4:31:58",
             "mjd": 58531.18886,
@@ -6562,7 +6579,7 @@
             "snr": 15.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190217A"
         },
-        "387": {
+        "388": {
             "frb": "FRB 20190217B",
             "utc": "2019-02-17 23:39:23",
             "mjd": 58531.98568,
@@ -6579,7 +6596,7 @@
             "snr": 10.8,
             "reference": "http://chime-frb.ca/catalog/FRB20190217B"
         },
-        "388": {
+        "389": {
             "frb": "FRB 20190218A",
             "utc": "2019-02-18 10:20:13",
             "mjd": 58532.43071,
@@ -6596,7 +6613,7 @@
             "snr": 13.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190218A"
         },
-        "389": {
+        "390": {
             "frb": "FRB 20190218B",
             "utc": "2019-02-18 16:00:58",
             "mjd": 58532.66734,
@@ -6613,7 +6630,7 @@
             "snr": 11.1,
             "reference": "http://chime-frb.ca/catalog/FRB20190218B"
         },
-        "390": {
+        "391": {
             "frb": "FRB 20190218C",
             "utc": "2019-02-18 20:20:11",
             "mjd": 58532.84735,
@@ -6630,7 +6647,7 @@
             "snr": 67.5,
             "reference": "http://chime-frb.ca/catalog/FRB20190218C"
         },
-        "391": {
+        "392": {
             "frb": "FRB 20190219A",
             "utc": "2019-02-19 5:10:27",
             "mjd": 58533.21559,
@@ -6647,7 +6664,7 @@
             "snr": 23.0,
             "reference": "http://chime-frb.ca/catalog/FRB20190219A"
         },
-        "392": {
+        "393": {
             "frb": "FRB 20190219B",
             "utc": "2019-02-19 14:27:02",
             "mjd": 58533.60211,
@@ -6664,7 +6681,7 @@
             "snr": 29.1,
             "reference": "http://chime-frb.ca/catalog/FRB20190219B"
         },
-        "393": {
+        "394": {
             "frb": "FRB 20190219C",
             "utc": "2019-02-19 21:19:56",
             "mjd": 58533.88884,
@@ -6681,7 +6698,7 @@
             "snr": 9.1,
             "reference": "http://chime-frb.ca/catalog/FRB20190219C"
         },
-        "394": {
+        "395": {
             "frb": "FRB 20190220A",
             "utc": "2019-02-20 13:57:35",
             "mjd": 58534.58166,
@@ -6698,7 +6715,7 @@
             "snr": 10.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190220A"
         },
-        "395": {
+        "396": {
             "frb": "FRB 20190221A",
             "utc": "2019-02-21 6:47:30",
             "mjd": 58535.28299,
@@ -6715,7 +6732,7 @@
             "snr": 13.6,
             "reference": "http://chime-frb.ca/catalog/FRB20190221A"
         },
-        "396": {
+        "397": {
             "frb": "FRB 20190221B",
             "utc": "2019-02-21 17:02:57",
             "mjd": 58535.71038,
@@ -6732,7 +6749,7 @@
             "snr": 13.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190221B"
         },
-        "397": {
+        "398": {
             "frb": "FRB 20190221C",
             "utc": "2019-02-21 19:00:43",
             "mjd": 58535.79217,
@@ -6749,7 +6766,7 @@
             "snr": 19.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190221C"
         },
-        "398": {
+        "399": {
             "frb": "FRB 20190221D",
             "utc": "2019-02-21 23:29:08",
             "mjd": 58535.97857,
@@ -6766,7 +6783,7 @@
             "snr": 10.0,
             "reference": "http://chime-frb.ca/catalog/FRB20190221D"
         },
-        "399": {
+        "400": {
             "frb": "FRB 20190222A",
             "utc": "2019-02-22 18:46:01",
             "mjd": 58536.78196,
@@ -6783,7 +6800,7 @@
             "snr": 31.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190222A"
         },
-        "400": {
+        "401": {
             "frb": "FRB 20190222B",
             "utc": "2019-02-22 8:34:35",
             "mjd": 58536.35735,
@@ -6800,7 +6817,7 @@
             "snr": 10.0,
             "reference": "http://chime-frb.ca/catalog/FRB20190222B"
         },
-        "401": {
+        "402": {
             "frb": "FRB 20190222C",
             "utc": "2019-02-22 13:46:00",
             "mjd": 58536.57361,
@@ -6817,7 +6834,7 @@
             "snr": 16.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190222C"
         },
-        "402": {
+        "403": {
             "frb": "FRB 20190222D",
             "utc": "2019-02-22 18:47:17",
             "mjd": 58536.78284,
@@ -6834,7 +6851,7 @@
             "snr": 9.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190222D"
         },
-        "403": {
+        "404": {
             "frb": "FRB 20190223A",
             "utc": "2019-02-23 3:36:19",
             "mjd": 58537.15022,
@@ -6851,7 +6868,7 @@
             "snr": 13.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190223A"
         },
-        "404": {
+        "405": {
             "frb": "FRB 20190223B",
             "utc": "2019-02-23 18:31:50",
             "mjd": 58537.77211,
@@ -6868,7 +6885,7 @@
             "snr": 9.0,
             "reference": "http://chime-frb.ca/catalog/FRB20190223B"
         },
-        "405": {
+        "406": {
             "frb": "FRB 20190224A",
             "utc": "2019-02-24 2:17:13",
             "mjd": 58538.09529,
@@ -6885,7 +6902,7 @@
             "snr": 11.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190224A"
         },
-        "406": {
+        "407": {
             "frb": "FRB 20190224B",
             "utc": "2019-02-24 3:48:44",
             "mjd": 58538.15884,
@@ -6902,7 +6919,7 @@
             "snr": 10.0,
             "reference": "http://chime-frb.ca/catalog/FRB20190224B"
         },
-        "407": {
+        "408": {
             "frb": "FRB 20190224C",
             "utc": "2019-02-24 6:00:37",
             "mjd": 58538.25043,
@@ -6919,7 +6936,7 @@
             "snr": 18.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190224C"
         },
-        "408": {
+        "409": {
             "frb": "FRB 20190224D",
             "utc": "2019-02-24 7:46:30",
             "mjd": 58538.32396,
@@ -6936,7 +6953,7 @@
             "snr": 29.0,
             "reference": "http://chime-frb.ca/catalog/FRB20190224D"
         },
-        "409": {
+        "410": {
             "frb": "FRB 20190224E",
             "utc": "2019-02-24 10:00:49",
             "mjd": 58538.41723,
@@ -6953,7 +6970,7 @@
             "snr": 46.5,
             "reference": "http://chime-frb.ca/catalog/FRB20190224E"
         },
-        "410": {
+        "411": {
             "frb": "FRB 20190224F",
             "utc": "2019-02-24 1:54:18",
             "mjd": 58538.07937,
@@ -6970,7 +6987,7 @@
             "snr": 10.96,
             "reference": "https://www.wis-tns.org/object/20190224f"
         },
-        "411": {
+        "412": {
             "frb": "FRB 20190226A",
             "utc": "2019-02-26 1:36:34",
             "mjd": 58540.06706,
@@ -6987,7 +7004,7 @@
             "snr": 10.6,
             "reference": "http://chime-frb.ca/catalog/FRB20190226A"
         },
-        "412": {
+        "413": {
             "frb": "FRB 20190226B",
             "utc": "2019-02-26 15:48:01",
             "mjd": 58540.65835,
@@ -7004,7 +7021,7 @@
             "snr": 9.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190226B"
         },
-        "413": {
+        "414": {
             "frb": "FRB 20190226C",
             "utc": "2019-02-26 22:45:19",
             "mjd": 58540.94814,
@@ -7021,7 +7038,7 @@
             "snr": 10.6,
             "reference": "http://chime-frb.ca/catalog/FRB20190226C"
         },
-        "414": {
+        "415": {
             "frb": "FRB 20190227A",
             "utc": "2019-02-27 4:43:36",
             "mjd": 58541.19694,
@@ -7038,7 +7055,7 @@
             "snr": 63.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190227A"
         },
-        "415": {
+        "416": {
             "frb": "FRB 20190227B",
             "utc": "2019-02-27 12:11:10",
             "mjd": 58541.50775,
@@ -7055,7 +7072,7 @@
             "snr": 9.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190227B"
         },
-        "416": {
+        "417": {
             "frb": "FRB 20190228A",
             "utc": "2019-02-28 9:41:02",
             "mjd": 58542.40349,
@@ -7072,7 +7089,7 @@
             "snr": 37.8,
             "reference": "http://chime-frb.ca/catalog/FRB20190228A"
         },
-        "417": {
+        "418": {
             "frb": "FRB 20190228B",
             "utc": "2019-02-28 12:44:44",
             "mjd": 58542.53106,
@@ -7089,7 +7106,7 @@
             "snr": 30.5,
             "reference": "http://chime-frb.ca/catalog/FRB20190228B"
         },
-        "418": {
+        "419": {
             "frb": "FRB 20190301A",
             "utc": "2019-03-01 18:03:02",
             "mjd": 58543.75211,
@@ -7106,7 +7123,7 @@
             "snr": 17.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190301A"
         },
-        "419": {
+        "420": {
             "frb": "FRB 20190301B",
             "utc": "2019-03-01 2:04:04",
             "mjd": 58543.08616,
@@ -7123,7 +7140,7 @@
             "snr": 9.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190301B"
         },
-        "420": {
+        "421": {
             "frb": "FRB 20190301C",
             "utc": "2019-03-01 8:49:22",
             "mjd": 58543.36762,
@@ -7140,7 +7157,7 @@
             "snr": 9.1,
             "reference": "http://chime-frb.ca/catalog/FRB20190301C"
         },
-        "421": {
+        "422": {
             "frb": "FRB 20190301D",
             "utc": "2019-03-01 15:49:34",
             "mjd": 58543.65942,
@@ -7157,7 +7174,7 @@
             "snr": 10.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190301D"
         },
-        "422": {
+        "423": {
             "frb": "FRB 20190302A",
             "utc": "2019-03-02 23:37:09",
             "mjd": 58544.98413,
@@ -7174,7 +7191,7 @@
             "snr": 20.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190302A"
         },
-        "423": {
+        "424": {
             "frb": "FRB 20190302B",
             "utc": "2019-03-02 2:19:57",
             "mjd": 58544.09719,
@@ -7191,7 +7208,7 @@
             "snr": 10.2,
             "reference": "https://www.wis-tns.org/object/20190302b"
         },
-        "424": {
+        "425": {
             "frb": "FRB 20190303A",
             "utc": "2019-03-03 11:05:17",
             "mjd": 58545.462,
@@ -7208,7 +7225,7 @@
             "snr": 11.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190303A"
         },
-        "425": {
+        "426": {
             "frb": "FRB 20190303B",
             "utc": "2019-03-03 5:50:25",
             "mjd": 58545.24334,
@@ -7225,7 +7242,7 @@
             "snr": 52.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190303B"
         },
-        "426": {
+        "427": {
             "frb": "FRB 20190303C",
             "utc": "2019-03-03 8:50:58",
             "mjd": 58545.36873,
@@ -7242,7 +7259,7 @@
             "snr": 15.6,
             "reference": "http://chime-frb.ca/catalog/FRB20190303C"
         },
-        "427": {
+        "428": {
             "frb": "FRB 20190303D",
             "utc": "2019-03-03 9:23:52",
             "mjd": 58545.39157,
@@ -7259,7 +7276,7 @@
             "snr": 9.8,
             "reference": "http://chime-frb.ca/catalog/FRB20190303D"
         },
-        "428": {
+        "429": {
             "frb": "FRB 20190304A",
             "utc": "2019-03-04 5:28:11",
             "mjd": 58546.22791,
@@ -7276,7 +7293,7 @@
             "snr": 22.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190304A"
         },
-        "429": {
+        "430": {
             "frb": "FRB 20190304B",
             "utc": "2019-03-04 10:53:02",
             "mjd": 58546.45349,
@@ -7293,7 +7310,7 @@
             "snr": 20.8,
             "reference": "http://chime-frb.ca/catalog/FRB20190304B"
         },
-        "430": {
+        "431": {
             "frb": "FRB 20190304C",
             "utc": "2019-03-04 12:01:48",
             "mjd": 58546.50125,
@@ -7310,7 +7327,7 @@
             "snr": 10.8,
             "reference": "http://chime-frb.ca/catalog/FRB20190304C"
         },
-        "431": {
+        "432": {
             "frb": "FRB 20190307A",
             "utc": "2019-03-07 13:57:48",
             "mjd": 58549.5818,
@@ -7327,7 +7344,7 @@
             "snr": 12.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190307A"
         },
-        "432": {
+        "433": {
             "frb": "FRB 20190307B",
             "utc": "2019-03-07 14:58:47",
             "mjd": 58549.62415,
@@ -7344,7 +7361,7 @@
             "snr": 11.8,
             "reference": "http://chime-frb.ca/catalog/FRB20190307B"
         },
-        "433": {
+        "434": {
             "frb": "FRB 20190308B",
             "utc": "2019-03-08 11:12:28",
             "mjd": 58550.46699,
@@ -7361,7 +7378,7 @@
             "snr": 10.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190308B"
         },
-        "434": {
+        "435": {
             "frb": "FRB 20190308C",
             "utc": "2019-03-08 9:30:42",
             "mjd": 58550.39632,
@@ -7378,7 +7395,7 @@
             "snr": 22.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190308C"
         },
-        "435": {
+        "436": {
             "frb": "FRB 20190309A",
             "utc": "2019-03-09 15:26:37",
             "mjd": 58551.64348,
@@ -7395,7 +7412,7 @@
             "snr": 9.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190309A"
         },
-        "436": {
+        "437": {
             "frb": "FRB 20190313A",
             "utc": "2019-03-13 9:21:46",
             "mjd": 58555.39012,
@@ -7412,7 +7429,7 @@
             "snr": 9.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190313A"
         },
-        "437": {
+        "438": {
             "frb": "FRB 20190313B",
             "utc": "2019-03-13 3:20:06",
             "mjd": 58555.13896,
@@ -7429,7 +7446,7 @@
             "snr": 14.1,
             "reference": "http://chime-frb.ca/catalog/FRB20190313B"
         },
-        "438": {
+        "439": {
             "frb": "FRB 20190316A",
             "utc": "2019-03-16 20:42:15",
             "mjd": 58558.86267,
@@ -7446,7 +7463,7 @@
             "snr": 12.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190316A"
         },
-        "439": {
+        "440": {
             "frb": "FRB 20190317A",
             "utc": "2019-03-17 2:14:28",
             "mjd": 58559.09338,
@@ -7463,7 +7480,7 @@
             "snr": 9.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190317A"
         },
-        "440": {
+        "441": {
             "frb": "FRB 20190317B",
             "utc": "2019-03-17 3:03:02",
             "mjd": 58559.12711,
@@ -7480,7 +7497,7 @@
             "snr": 9.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190317B"
         },
-        "441": {
+        "442": {
             "frb": "FRB 20190317C",
             "utc": "2019-03-17 4:47:02",
             "mjd": 58559.19933,
@@ -7497,7 +7514,7 @@
             "snr": 11.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190317C"
         },
-        "442": {
+        "443": {
             "frb": "FRB 20190317E",
             "utc": "2019-03-17 14:40:53",
             "mjd": 58559.61172,
@@ -7514,7 +7531,7 @@
             "snr": 14.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190317E"
         },
-        "443": {
+        "444": {
             "frb": "FRB 20190317F",
             "utc": "2019-03-17 12:09:55",
             "mjd": 58559.50689,
@@ -7531,7 +7548,7 @@
             "snr": 53.6,
             "reference": "http://chime-frb.ca/catalog/FRB20190317F"
         },
-        "444": {
+        "445": {
             "frb": "FRB 20190318A",
             "utc": "2019-03-18 17:44:03",
             "mjd": 58560.73892,
@@ -7548,7 +7565,7 @@
             "snr": 24.8,
             "reference": "http://chime-frb.ca/catalog/FRB20190318A"
         },
-        "445": {
+        "446": {
             "frb": "FRB 20190319A",
             "utc": "2019-03-19 3:46:02",
             "mjd": 58561.15697,
@@ -7565,7 +7582,7 @@
             "snr": 22.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190319A"
         },
-        "446": {
+        "447": {
             "frb": "FRB 20190320A",
             "utc": "2019-03-20 0:21:02",
             "mjd": 58562.01461,
@@ -7582,7 +7599,7 @@
             "snr": 15.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190320A"
         },
-        "447": {
+        "448": {
             "frb": "FRB 20190320B",
             "utc": "2019-03-20 12:47:34",
             "mjd": 58562.53303,
@@ -7599,7 +7616,7 @@
             "snr": 17.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190320B"
         },
-        "448": {
+        "449": {
             "frb": "FRB 20190320C",
             "utc": "2019-03-20 13:08:58",
             "mjd": 58562.54789,
@@ -7616,7 +7633,7 @@
             "snr": 11.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190320C"
         },
-        "449": {
+        "450": {
             "frb": "FRB 20190320D",
             "utc": "2019-03-20 13:33:08",
             "mjd": 58562.56468,
@@ -7633,7 +7650,7 @@
             "snr": 12.5,
             "reference": "http://chime-frb.ca/catalog/FRB20190320D"
         },
-        "450": {
+        "451": {
             "frb": "FRB 20190320E",
             "utc": "2019-03-20 23:19:26",
             "mjd": 58562.97183,
@@ -7650,7 +7667,7 @@
             "snr": 32.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190320E"
         },
-        "451": {
+        "452": {
             "frb": "FRB 20190322A",
             "utc": "2019-03-22 3:28:05",
             "mjd": 58564.1445,
@@ -7667,7 +7684,7 @@
             "snr": 19.0,
             "reference": "http://chime-frb.ca/catalog/FRB20190322A"
         },
-        "452": {
+        "453": {
             "frb": "FRB 20190322B",
             "utc": "2019-03-22 4:44:55",
             "mjd": 58564.19786,
@@ -7684,7 +7701,7 @@
             "snr": 10.1,
             "reference": "http://chime-frb.ca/catalog/FRB20190322B"
         },
-        "453": {
+        "454": {
             "frb": "FRB 20190322C",
             "utc": "2019-03-22 15:44:18",
             "mjd": 58564.65576,
@@ -7701,7 +7718,7 @@
             "snr": 53.1,
             "reference": "http://chime-frb.ca/catalog/FRB20190322C"
         },
-        "454": {
+        "455": {
             "frb": "FRB 20190322D",
             "utc": "2019-03-22 7:00:12",
             "mjd": 58564.29181,
@@ -7718,7 +7735,7 @@
             "snr": 12.0,
             "reference": "https://www.wis-tns.org/object/20190322d"
         },
-        "455": {
+        "456": {
             "frb": "FRB 20190323A",
             "utc": "2019-03-23 3:27:58",
             "mjd": 58565.14442,
@@ -7735,7 +7752,7 @@
             "snr": 14.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190323A"
         },
-        "456": {
+        "457": {
             "frb": "FRB 20190323B",
             "utc": "2019-03-23 8:42:56",
             "mjd": 58565.36315,
@@ -7752,7 +7769,7 @@
             "snr": 57.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190323B"
         },
-        "457": {
+        "458": {
             "frb": "FRB 20190323C",
             "utc": "2019-03-23 9:17:12",
             "mjd": 58565.38694,
@@ -7769,7 +7786,7 @@
             "snr": 11.5,
             "reference": "http://chime-frb.ca/catalog/FRB20190323C"
         },
-        "458": {
+        "459": {
             "frb": "FRB 20190323D",
             "utc": "2019-03-23 23:47:28",
             "mjd": 58565.9913,
@@ -7786,7 +7803,7 @@
             "snr": 9.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190323D"
         },
-        "459": {
+        "460": {
             "frb": "FRB 20190325A",
             "utc": "2019-03-25 4:19:46",
             "mjd": 58567.18039,
@@ -7803,7 +7820,7 @@
             "snr": 13.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190325A"
         },
-        "460": {
+        "461": {
             "frb": "FRB 20190325B",
             "utc": "2019-03-25 8:03:23",
             "mjd": 58567.33568,
@@ -7820,7 +7837,7 @@
             "snr": 9.8,
             "reference": "http://chime-frb.ca/catalog/FRB20190325B"
         },
-        "461": {
+        "462": {
             "frb": "FRB 20190325C",
             "utc": "2019-03-25 23:26:06",
             "mjd": 58567.97646,
@@ -7837,7 +7854,7 @@
             "snr": 11.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190325C"
         },
-        "462": {
+        "463": {
             "frb": "FRB 20190326A",
             "utc": "2019-03-26 6:39:15",
             "mjd": 58568.27726,
@@ -7854,7 +7871,7 @@
             "snr": 11.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190326A"
         },
-        "463": {
+        "464": {
             "frb": "FRB 20190327A",
             "utc": "2019-03-27 14:27:28",
             "mjd": 58569.60241,
@@ -7871,7 +7888,7 @@
             "snr": 31.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190327A"
         },
-        "464": {
+        "465": {
             "frb": "FRB 20190328A",
             "utc": "2019-03-28 3:46:47",
             "mjd": 58570.15749,
@@ -7888,7 +7905,7 @@
             "snr": 10.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190328A"
         },
-        "465": {
+        "466": {
             "frb": "FRB 20190328B",
             "utc": "2019-03-28 9:48:46",
             "mjd": 58570.40886,
@@ -7905,7 +7922,7 @@
             "snr": 9.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190328B"
         },
-        "466": {
+        "467": {
             "frb": "FRB 20190328C",
             "utc": "2019-03-28 12:25:13",
             "mjd": 58570.51751,
@@ -7922,7 +7939,7 @@
             "snr": 18.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190328C"
         },
-        "467": {
+        "468": {
             "frb": "FRB 20190329A",
             "utc": "2019-03-29 23:58:22",
             "mjd": 58571.99886,
@@ -7939,7 +7956,7 @@
             "snr": 11.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190329A"
         },
-        "468": {
+        "469": {
             "frb": "FRB 20190329B",
             "utc": "2019-03-29 1:20:33",
             "mjd": 58571.05594,
@@ -7956,7 +7973,7 @@
             "snr": 15.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190329B"
         },
-        "469": {
+        "470": {
             "frb": "FRB 20190329C",
             "utc": "2019-03-29 14:12:21",
             "mjd": 58571.59191,
@@ -7973,7 +7990,7 @@
             "snr": 26.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190329C"
         },
-        "470": {
+        "471": {
             "frb": "FRB 20190330A",
             "utc": "2019-03-30 9:07:55",
             "mjd": 58572.3805,
@@ -7990,7 +8007,7 @@
             "snr": 9.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190330A"
         },
-        "471": {
+        "472": {
             "frb": "FRB 20190330B",
             "utc": "2019-03-30 13:26:55",
             "mjd": 58572.56036,
@@ -8007,7 +8024,7 @@
             "snr": 44.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190330B"
         },
-        "472": {
+        "473": {
             "frb": "FRB 20190401A",
             "utc": "2019-04-01 8:36:26",
             "mjd": 58574.35864,
@@ -8024,7 +8041,7 @@
             "snr": 22.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190401A"
         },
-        "473": {
+        "474": {
             "frb": "FRB 20190402A",
             "utc": "2019-04-02 7:10:10",
             "mjd": 58575.29873,
@@ -8041,7 +8058,7 @@
             "snr": 10.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190402A"
         },
-        "474": {
+        "475": {
             "frb": "FRB 20190403A",
             "utc": "2019-04-03 2:37:30",
             "mjd": 58576.10938,
@@ -8058,7 +8075,7 @@
             "snr": 10.8,
             "reference": "http://chime-frb.ca/catalog/FRB20190403A"
         },
-        "475": {
+        "476": {
             "frb": "FRB 20190403B",
             "utc": "2019-04-03 4:19:53",
             "mjd": 58576.18048,
@@ -8075,7 +8092,7 @@
             "snr": 18.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190403B"
         },
-        "476": {
+        "477": {
             "frb": "FRB 20190403C",
             "utc": "2019-04-03 11:48:49",
             "mjd": 58576.49223,
@@ -8092,7 +8109,7 @@
             "snr": 9.0,
             "reference": "http://chime-frb.ca/catalog/FRB20190403C"
         },
-        "477": {
+        "478": {
             "frb": "FRB 20190403D",
             "utc": "2019-04-03 17:27:59",
             "mjd": 58576.72777,
@@ -8109,7 +8126,7 @@
             "snr": 10.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190403D"
         },
-        "478": {
+        "479": {
             "frb": "FRB 20190403E",
             "utc": "2019-04-03 21:14:58",
             "mjd": 58576.88539,
@@ -8126,7 +8143,7 @@
             "snr": 23.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190403E"
         },
-        "479": {
+        "480": {
             "frb": "FRB 20190403F",
             "utc": "2019-04-03 22:07:15",
             "mjd": 58576.9217,
@@ -8143,7 +8160,7 @@
             "snr": 11.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190403F"
         },
-        "480": {
+        "481": {
             "frb": "FRB 20190403G",
             "utc": "2019-04-03 0:42:31",
             "mjd": 58576.02953,
@@ -8160,7 +8177,7 @@
             "snr": 11.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190403G"
         },
-        "481": {
+        "482": {
             "frb": "FRB 20190404A",
             "utc": "2019-04-04 4:41:06",
             "mjd": 58577.19521,
@@ -8177,7 +8194,7 @@
             "snr": 24.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190404A"
         },
-        "482": {
+        "483": {
             "frb": "FRB 20190404B",
             "utc": "2019-04-04 12:32:15",
             "mjd": 58577.5224,
@@ -8194,7 +8211,7 @@
             "snr": 134.0,
             "reference": "http://chime-frb.ca/catalog/FRB20190404B"
         },
-        "483": {
+        "484": {
             "frb": "FRB 20190405A",
             "utc": "2019-04-05 17:34:26",
             "mjd": 58578.73225,
@@ -8211,7 +8228,7 @@
             "snr": 9.6,
             "reference": "http://chime-frb.ca/catalog/FRB20190405A"
         },
-        "484": {
+        "485": {
             "frb": "FRB 20190405B",
             "utc": "2019-04-05 23:31:28",
             "mjd": 58578.98019,
@@ -8228,7 +8245,7 @@
             "snr": 20.6,
             "reference": "http://chime-frb.ca/catalog/FRB20190405B"
         },
-        "485": {
+        "486": {
             "frb": "FRB 20190406A",
             "utc": "2019-04-07 0:00:00",
             "mjd": 58580.0,
@@ -8245,7 +8262,7 @@
             "snr": 13.1,
             "reference": "http://chime-frb.ca/catalog/FRB20190406A"
         },
-        "486": {
+        "487": {
             "frb": "FRB 20190408A",
             "utc": "2019-04-08 12:25:51",
             "mjd": 58581.51795,
@@ -8262,7 +8279,7 @@
             "snr": 9.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190408A"
         },
-        "487": {
+        "488": {
             "frb": "FRB 20190409A",
             "utc": "2019-04-09 0:09:59",
             "mjd": 58582.00693,
@@ -8279,7 +8296,7 @@
             "snr": 14.5,
             "reference": "http://chime-frb.ca/catalog/FRB20190409A"
         },
-        "488": {
+        "489": {
             "frb": "FRB 20190409B",
             "utc": "2019-04-09 3:25:40",
             "mjd": 58582.14282,
@@ -8296,7 +8313,7 @@
             "snr": 12.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190409B"
         },
-        "489": {
+        "490": {
             "frb": "FRB 20190409C",
             "utc": "2019-04-09 11:43:40",
             "mjd": 58582.48866,
@@ -8313,7 +8330,7 @@
             "snr": 11.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190409C"
         },
-        "490": {
+        "491": {
             "frb": "FRB 20190409D",
             "utc": "2019-04-09 17:19:04",
             "mjd": 58582.72157,
@@ -8330,7 +8347,7 @@
             "snr": 16.1,
             "reference": "http://chime-frb.ca/catalog/FRB20190409D"
         },
-        "491": {
+        "492": {
             "frb": "FRB 20190410A",
             "utc": "2019-04-10 12:19:49",
             "mjd": 58583.51376,
@@ -8347,7 +8364,7 @@
             "snr": 9.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190410A"
         },
-        "492": {
+        "493": {
             "frb": "FRB 20190410B",
             "utc": "2019-04-10 12:27:53",
             "mjd": 58583.51936,
@@ -8364,7 +8381,7 @@
             "snr": 20.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190410B"
         },
-        "493": {
+        "494": {
             "frb": "FRB 20190411A",
             "utc": "2019-04-11 0:37:20",
             "mjd": 58584.02593,
@@ -8381,7 +8398,7 @@
             "snr": 11.0,
             "reference": "http://chime-frb.ca/catalog/FRB20190411A"
         },
-        "494": {
+        "495": {
             "frb": "FRB 20190411B",
             "utc": "2019-04-11 5:01:08",
             "mjd": 58584.20912,
@@ -8398,7 +8415,7 @@
             "snr": 15.6,
             "reference": "http://chime-frb.ca/catalog/FRB20190411B"
         },
-        "495": {
+        "496": {
             "frb": "FRB 20190411C",
             "utc": "2019-04-11 19:20:37",
             "mjd": 58584.80598,
@@ -8415,7 +8432,7 @@
             "snr": 32.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190411C"
         },
-        "496": {
+        "497": {
             "frb": "FRB 20190412A",
             "utc": "2019-04-12 10:54:18",
             "mjd": 58585.45438,
@@ -8432,7 +8449,7 @@
             "snr": 42.0,
             "reference": "http://chime-frb.ca/catalog/FRB20190412A"
         },
-        "497": {
+        "498": {
             "frb": "FRB 20190412B",
             "utc": "2019-04-12 13:43:36",
             "mjd": 58585.57195,
@@ -8449,7 +8466,7 @@
             "snr": 12.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190412B"
         },
-        "498": {
+        "499": {
             "frb": "FRB 20190414A",
             "utc": "2019-04-14 6:38:44",
             "mjd": 58587.2769,
@@ -8466,7 +8483,7 @@
             "snr": 13.5,
             "reference": "http://chime-frb.ca/catalog/FRB20190414A"
         },
-        "499": {
+        "500": {
             "frb": "FRB 20190414B",
             "utc": "2019-04-14 11:03:04",
             "mjd": 58587.46046,
@@ -8483,7 +8500,7 @@
             "snr": 13.6,
             "reference": "http://chime-frb.ca/catalog/FRB20190414B"
         },
-        "500": {
+        "501": {
             "frb": "FRB 20190415A",
             "utc": "2019-04-15 6:36:03",
             "mjd": 58588.27503,
@@ -8500,7 +8517,7 @@
             "snr": 12.1,
             "reference": "http://chime-frb.ca/catalog/FRB20190415A"
         },
-        "501": {
+        "502": {
             "frb": "FRB 20190415B",
             "utc": "2019-04-15 19:03:06",
             "mjd": 58588.79382,
@@ -8517,7 +8534,7 @@
             "snr": 29.6,
             "reference": "http://chime-frb.ca/catalog/FRB20190415B"
         },
-        "502": {
+        "503": {
             "frb": "FRB 20190415C",
             "utc": "2019-04-15 23:23:46",
             "mjd": 58588.97484,
@@ -8534,7 +8551,7 @@
             "snr": 9.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190415C"
         },
-        "503": {
+        "504": {
             "frb": "FRB 20190416A",
             "utc": "2019-04-16 4:07:29",
             "mjd": 58589.17186,
@@ -8551,7 +8568,7 @@
             "snr": 14.6,
             "reference": "http://chime-frb.ca/catalog/FRB20190416A"
         },
-        "504": {
+        "505": {
             "frb": "FRB 20190416B",
             "utc": "2019-04-16 5:50:03",
             "mjd": 58589.24309,
@@ -8568,7 +8585,7 @@
             "snr": 19.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190416B"
         },
-        "505": {
+        "506": {
             "frb": "FRB 20190417A",
             "utc": "2019-04-17 13:56:05",
             "mjd": 58590.58061,
@@ -8585,7 +8602,7 @@
             "snr": 13.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190417A"
         },
-        "506": {
+        "507": {
             "frb": "FRB 20190417B",
             "utc": "2019-04-17 6:02:17",
             "mjd": 58590.25158,
@@ -8602,7 +8619,7 @@
             "snr": 14.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190417B"
         },
-        "507": {
+        "508": {
             "frb": "FRB 20190417C",
             "utc": "2019-04-17 21:22:15",
             "mjd": 58590.89045,
@@ -8619,7 +8636,7 @@
             "snr": 52.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190417C"
         },
-        "508": {
+        "509": {
             "frb": "FRB 20190418A",
             "utc": "2019-04-18 22:34:17",
             "mjd": 58591.94047,
@@ -8636,7 +8653,7 @@
             "snr": 20.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190418A"
         },
-        "509": {
+        "510": {
             "frb": "FRB 20190419A",
             "utc": "2019-04-19 1:16:25",
             "mjd": 58592.05307,
@@ -8653,7 +8670,7 @@
             "snr": 10.6,
             "reference": "http://chime-frb.ca/catalog/FRB20190419A"
         },
-        "510": {
+        "511": {
             "frb": "FRB 20190419B",
             "utc": "2019-04-19 22:38:30",
             "mjd": 58592.9434,
@@ -8670,7 +8687,7 @@
             "snr": 24.6,
             "reference": "http://chime-frb.ca/catalog/FRB20190419B"
         },
-        "511": {
+        "512": {
             "frb": "FRB 20190420A",
             "utc": "2019-04-20 1:14:52",
             "mjd": 58593.05199,
@@ -8687,7 +8704,7 @@
             "snr": 15.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190420A"
         },
-        "512": {
+        "513": {
             "frb": "FRB 20190420B",
             "utc": "2019-04-20 0:28:05",
             "mjd": 58593.0195,
@@ -8704,7 +8721,7 @@
             "snr": 28.0,
             "reference": "http://chime-frb.ca/catalog/FRB20190420B"
         },
-        "513": {
+        "514": {
             "frb": "FRB 20190420C",
             "utc": "2019-04-20 10:40:44",
             "mjd": 58593.44495,
@@ -8721,7 +8738,7 @@
             "snr": 10.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190420C"
         },
-        "514": {
+        "515": {
             "frb": "FRB 20190421A",
             "utc": "2019-04-21 8:00:10",
             "mjd": 58594.33345,
@@ -8738,7 +8755,7 @@
             "snr": 12.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190421A"
         },
-        "515": {
+        "516": {
             "frb": "FRB 20190421B",
             "utc": "2019-04-21 23:27:46",
             "mjd": 58594.97762,
@@ -8755,7 +8772,7 @@
             "snr": 78.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190421B"
         },
-        "516": {
+        "517": {
             "frb": "FRB 20190422A",
             "utc": "2019-04-22 21:13:25",
             "mjd": 58595.88432,
@@ -8772,7 +8789,7 @@
             "snr": 18.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190422A"
         },
-        "517": {
+        "518": {
             "frb": "FRB 20190422B",
             "utc": "2019-04-22 4:30:37",
             "mjd": 58595.18793,
@@ -8789,7 +8806,7 @@
             "snr": 11.1,
             "reference": "http://chime-frb.ca/catalog/FRB20190422B"
         },
-        "518": {
+        "519": {
             "frb": "FRB 20190423A",
             "utc": "2019-04-23 5:59:40",
             "mjd": 58596.24977,
@@ -8806,7 +8823,7 @@
             "snr": 39.0,
             "reference": "http://chime-frb.ca/catalog/FRB20190423A"
         },
-        "519": {
+        "520": {
             "frb": "FRB 20190423B",
             "utc": "2019-04-23 13:52:00",
             "mjd": 58596.57778,
@@ -8823,7 +8840,7 @@
             "snr": 15.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190423B"
         },
-        "520": {
+        "521": {
             "frb": "FRB 20190423C",
             "utc": "2019-04-23 17:36:29",
             "mjd": 58596.73367,
@@ -8840,7 +8857,7 @@
             "snr": 14.8,
             "reference": "http://chime-frb.ca/catalog/FRB20190423C"
         },
-        "521": {
+        "522": {
             "frb": "FRB 20190423D",
             "utc": "2019-04-23 20:10:24",
             "mjd": 58596.84055,
@@ -8857,7 +8874,7 @@
             "snr": 23.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190423D"
         },
-        "522": {
+        "523": {
             "frb": "FRB 20190424A",
             "utc": "2019-04-24 5:04:54",
             "mjd": 58597.21174,
@@ -8874,7 +8891,7 @@
             "snr": 18.1,
             "reference": "http://chime-frb.ca/catalog/FRB20190424A"
         },
-        "523": {
+        "524": {
             "frb": "FRB 20190425A",
             "utc": "2019-04-25 10:47:54",
             "mjd": 58598.44993,
@@ -8891,7 +8908,7 @@
             "snr": 57.6,
             "reference": "http://chime-frb.ca/catalog/FRB20190425A"
         },
-        "524": {
+        "525": {
             "frb": "FRB 20190425B",
             "utc": "2019-04-25 18:05:48",
             "mjd": 58598.75403,
@@ -8908,7 +8925,7 @@
             "snr": 18.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190425B"
         },
-        "525": {
+        "526": {
             "frb": "FRB 20190426A",
             "utc": "2019-04-26 1:28:06",
             "mjd": 58599.06118,
@@ -8925,7 +8942,7 @@
             "snr": 23.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190426A"
         },
-        "526": {
+        "527": {
             "frb": "FRB 20190427A",
             "utc": "2019-04-27 22:54:31",
             "mjd": 58600.95452,
@@ -8942,7 +8959,7 @@
             "snr": 25.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190427A"
         },
-        "527": {
+        "528": {
             "frb": "FRB 20190428A",
             "utc": "2019-04-28 5:01:30",
             "mjd": 58601.20937,
@@ -8959,7 +8976,7 @@
             "snr": 33.0,
             "reference": "http://chime-frb.ca/catalog/FRB20190428A"
         },
-        "528": {
+        "529": {
             "frb": "FRB 20190429A",
             "utc": "2019-04-29 12:11:06",
             "mjd": 58602.50771,
@@ -8976,7 +8993,7 @@
             "snr": 9.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190429A"
         },
-        "529": {
+        "530": {
             "frb": "FRB 20190429B",
             "utc": "2019-04-29 15:33:25",
             "mjd": 58602.64821,
@@ -8993,7 +9010,7 @@
             "snr": 10.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190429B"
         },
-        "530": {
+        "531": {
             "frb": "FRB 20190430A",
             "utc": "2019-04-30 10:50:41",
             "mjd": 58603.45186,
@@ -9010,7 +9027,7 @@
             "snr": 11.1,
             "reference": "http://chime-frb.ca/catalog/FRB20190430A"
         },
-        "531": {
+        "532": {
             "frb": "FRB 20190430B",
             "utc": "2019-04-30 9:20:49",
             "mjd": 58603.38946,
@@ -9027,7 +9044,7 @@
             "snr": 10.0,
             "reference": "http://chime-frb.ca/catalog/FRB20190430B"
         },
-        "532": {
+        "533": {
             "frb": "FRB 20190430C",
             "utc": "2019-04-30 11:53:51",
             "mjd": 58603.49573,
@@ -9044,7 +9061,7 @@
             "snr": 22.5,
             "reference": "http://chime-frb.ca/catalog/FRB20190430C"
         },
-        "533": {
+        "534": {
             "frb": "FRB 20190501B",
             "utc": "2019-05-01 10:53:49",
             "mjd": 58604.45404,
@@ -9061,7 +9078,7 @@
             "snr": 24.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190501B"
         },
-        "534": {
+        "535": {
             "frb": "FRB 20190502A",
             "utc": "2019-05-02 4:23:27",
             "mjd": 58605.18295,
@@ -9078,7 +9095,7 @@
             "snr": 67.5,
             "reference": "http://chime-frb.ca/catalog/FRB20190502A"
         },
-        "535": {
+        "536": {
             "frb": "FRB 20190502B",
             "utc": "2019-05-02 7:30:50",
             "mjd": 58605.31308,
@@ -9095,7 +9112,7 @@
             "snr": 59.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190502B"
         },
-        "536": {
+        "537": {
             "frb": "FRB 20190502C",
             "utc": "2019-05-02 15:56:16",
             "mjd": 58605.66407,
@@ -9112,7 +9129,7 @@
             "snr": 23.8,
             "reference": "http://chime-frb.ca/catalog/FRB20190502C"
         },
-        "537": {
+        "538": {
             "frb": "FRB 20190515A",
             "utc": "2019-05-15 13:07:41",
             "mjd": 58618.547,
@@ -9129,7 +9146,7 @@
             "snr": 20.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190515A"
         },
-        "538": {
+        "539": {
             "frb": "FRB 20190515B",
             "utc": "2019-05-15 16:28:59",
             "mjd": 58618.68679,
@@ -9146,7 +9163,7 @@
             "snr": 23.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190515B"
         },
-        "539": {
+        "540": {
             "frb": "FRB 20190515C",
             "utc": "2019-05-15 18:33:47",
             "mjd": 58618.77346,
@@ -9163,7 +9180,7 @@
             "snr": 10.1,
             "reference": "http://chime-frb.ca/catalog/FRB20190515C"
         },
-        "540": {
+        "541": {
             "frb": "FRB 20190515D",
             "utc": "2019-05-15 20:58:16",
             "mjd": 58618.8738,
@@ -9180,7 +9197,7 @@
             "snr": 13.0,
             "reference": "http://chime-frb.ca/catalog/FRB20190515D"
         },
-        "541": {
+        "542": {
             "frb": "FRB 20190516A",
             "utc": "2019-05-16 10:35:47",
             "mjd": 58619.44152,
@@ -9197,7 +9214,7 @@
             "snr": 10.53,
             "reference": "https://www.wis-tns.org/object/20190516a"
         },
-        "542": {
+        "543": {
             "frb": "FRB 20190516B",
             "utc": "2019-05-16 3:38:00",
             "mjd": 58619.15139,
@@ -9214,7 +9231,7 @@
             "snr": 15.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190516B"
         },
-        "543": {
+        "544": {
             "frb": "FRB 20190517B",
             "utc": "2019-05-17 20:33:37",
             "mjd": 58620.85668,
@@ -9231,7 +9248,7 @@
             "snr": 9.6,
             "reference": "http://chime-frb.ca/catalog/FRB20190517B"
         },
-        "544": {
+        "545": {
             "frb": "FRB 20190517C",
             "utc": "2019-05-17 22:06:43",
             "mjd": 58620.92133,
@@ -9248,7 +9265,7 @@
             "snr": 25.0,
             "reference": "http://chime-frb.ca/catalog/FRB20190517C"
         },
-        "545": {
+        "546": {
             "frb": "FRB 20190517D",
             "utc": "2019-05-17 14:59:06",
             "mjd": 58620.62437,
@@ -9265,7 +9282,7 @@
             "snr": 9.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190517D"
         },
-        "546": {
+        "547": {
             "frb": "FRB 20190518A",
             "utc": "2019-05-18 18:13:43",
             "mjd": 58621.75952,
@@ -9282,7 +9299,7 @@
             "snr": 9.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190518A"
         },
-        "547": {
+        "548": {
             "frb": "FRB 20190518B",
             "utc": "2019-05-18 3:59:34",
             "mjd": 58621.16637,
@@ -9299,7 +9316,7 @@
             "snr": 12.8,
             "reference": "http://chime-frb.ca/catalog/FRB20190518B"
         },
-        "548": {
+        "549": {
             "frb": "FRB 20190518C",
             "utc": "2019-05-18 8:23:00",
             "mjd": 58621.3493,
@@ -9316,7 +9333,7 @@
             "snr": 34.5,
             "reference": "http://chime-frb.ca/catalog/FRB20190518C"
         },
-        "549": {
+        "550": {
             "frb": "FRB 20190518D",
             "utc": "2019-05-18 9:04:42",
             "mjd": 58621.37826,
@@ -9333,7 +9350,7 @@
             "snr": 14.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190518D"
         },
-        "550": {
+        "551": {
             "frb": "FRB 20190518E",
             "utc": "2019-05-18 18:21:06",
             "mjd": 58621.76465,
@@ -9350,7 +9367,7 @@
             "snr": 16.0,
             "reference": "http://chime-frb.ca/catalog/FRB20190518E"
         },
-        "551": {
+        "552": {
             "frb": "FRB 20190518G",
             "utc": "2019-05-18 22:40:51",
             "mjd": 58621.94503,
@@ -9367,7 +9384,7 @@
             "snr": 20.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190518G"
         },
-        "552": {
+        "553": {
             "frb": "FRB 20190519A",
             "utc": "2019-05-19 17:50:25",
             "mjd": 58622.74335,
@@ -9384,7 +9401,7 @@
             "snr": 11.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190519A"
         },
-        "553": {
+        "554": {
             "frb": "FRB 20190519B",
             "utc": "2019-05-19 18:09:02",
             "mjd": 58622.75627,
@@ -9401,7 +9418,7 @@
             "snr": 21.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190519B"
         },
-        "554": {
+        "555": {
             "frb": "FRB 20190519C",
             "utc": "2019-05-19 18:10:51",
             "mjd": 58622.75753,
@@ -9418,7 +9435,7 @@
             "snr": 16.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190519C"
         },
-        "555": {
+        "556": {
             "frb": "FRB 20190519D",
             "utc": "2019-05-19 3:11:53",
             "mjd": 58622.13325,
@@ -9435,7 +9452,7 @@
             "snr": 18.6,
             "reference": "http://chime-frb.ca/catalog/FRB20190519D"
         },
-        "556": {
+        "557": {
             "frb": "FRB 20190519E",
             "utc": "2019-05-19 3:28:47",
             "mjd": 58622.14499,
@@ -9452,7 +9469,7 @@
             "snr": 17.0,
             "reference": "http://chime-frb.ca/catalog/FRB20190519E"
         },
-        "557": {
+        "558": {
             "frb": "FRB 20190519F",
             "utc": "2019-05-19 3:30:12",
             "mjd": 58622.14597,
@@ -9469,7 +9486,7 @@
             "snr": 20.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190519F"
         },
-        "558": {
+        "559": {
             "frb": "FRB 20190519G",
             "utc": "2019-05-19 12:48:14",
             "mjd": 58622.53349,
@@ -9486,7 +9503,7 @@
             "snr": 28.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190519G"
         },
-        "559": {
+        "560": {
             "frb": "FRB 20190519H",
             "utc": "2019-05-19 15:33:56",
             "mjd": 58622.64856,
@@ -9503,7 +9520,7 @@
             "snr": 39.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190519H"
         },
-        "560": {
+        "561": {
             "frb": "FRB 20190519J",
             "utc": "2019-05-19 23:04:08",
             "mjd": 58622.9612,
@@ -9520,7 +9537,7 @@
             "snr": 9.5,
             "reference": "http://chime-frb.ca/catalog/FRB20190519J"
         },
-        "561": {
+        "562": {
             "frb": "FRB 20190520A",
             "utc": "2019-05-20 10:25:04",
             "mjd": 58623.43407,
@@ -9537,7 +9554,7 @@
             "snr": 21.8,
             "reference": "http://chime-frb.ca/catalog/FRB20190520A"
         },
-        "562": {
+        "563": {
             "frb": "FRB 20190523A",
             "utc": "2019-05-23 6:05:56",
             "mjd": 58626.25412,
@@ -9554,7 +9571,7 @@
             "snr": 11.5,
             "reference": "https://www.wis-tns.org/object/20190523a"
         },
-        "563": {
+        "564": {
             "frb": "FRB 20190527A",
             "utc": "2019-05-27 16:28:08",
             "mjd": 58630.6862,
@@ -9571,7 +9588,7 @@
             "snr": 14.8,
             "reference": "http://chime-frb.ca/catalog/FRB20190527A"
         },
-        "564": {
+        "565": {
             "frb": "FRB 20190527B",
             "utc": "2019-05-27 20:39:42",
             "mjd": 58630.8609,
@@ -9588,7 +9605,7 @@
             "snr": 9.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190527B"
         },
-        "565": {
+        "566": {
             "frb": "FRB 20190527C",
             "utc": "2019-05-27 22:23:06",
             "mjd": 58630.93271,
@@ -9605,7 +9622,7 @@
             "snr": 48.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190527C"
         },
-        "566": {
+        "567": {
             "frb": "FRB 20190529A",
             "utc": "2019-05-29 20:05:59",
             "mjd": 58632.83749,
@@ -9622,7 +9639,7 @@
             "snr": 10.6,
             "reference": "http://chime-frb.ca/catalog/FRB20190529A"
         },
-        "567": {
+        "568": {
             "frb": "FRB 20190530A",
             "utc": "2019-05-30 20:07:47",
             "mjd": 58633.83874,
@@ -9639,7 +9656,7 @@
             "snr": 11.5,
             "reference": "http://chime-frb.ca/catalog/FRB20190530A"
         },
-        "568": {
+        "569": {
             "frb": "FRB 20190531A",
             "utc": "2019-05-31 5:14:23",
             "mjd": 58634.21832,
@@ -9656,7 +9673,7 @@
             "snr": 10.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190531A"
         },
-        "569": {
+        "570": {
             "frb": "FRB 20190531B",
             "utc": "2019-05-31 8:47:46",
             "mjd": 58634.3665,
@@ -9673,7 +9690,7 @@
             "snr": 55.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190531B"
         },
-        "570": {
+        "571": {
             "frb": "FRB 20190531C",
             "utc": "2019-05-31 13:33:18",
             "mjd": 58634.56479,
@@ -9690,7 +9707,7 @@
             "snr": 9.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190531C"
         },
-        "571": {
+        "572": {
             "frb": "FRB 20190531E",
             "utc": "2019-05-31 16:28:15",
             "mjd": 58634.68628,
@@ -9707,7 +9724,7 @@
             "snr": 9.5,
             "reference": "http://chime-frb.ca/catalog/FRB20190531E"
         },
-        "572": {
+        "573": {
             "frb": "FRB 20190601A",
             "utc": "2019-06-01 4:05:40",
             "mjd": 58635.1706,
@@ -9724,7 +9741,7 @@
             "snr": 15.1,
             "reference": "http://chime-frb.ca/catalog/FRB20190601A"
         },
-        "573": {
+        "574": {
             "frb": "FRB 20190601B",
             "utc": "2019-06-01 16:31:44",
             "mjd": 58635.6887,
@@ -9741,7 +9758,7 @@
             "snr": 29.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190601B"
         },
-        "574": {
+        "575": {
             "frb": "FRB 20190601C",
             "utc": "2019-06-01 21:13:39",
             "mjd": 58635.88448,
@@ -9758,7 +9775,7 @@
             "snr": 25.1,
             "reference": "http://chime-frb.ca/catalog/FRB20190601C"
         },
-        "575": {
+        "576": {
             "frb": "FRB 20190601D",
             "utc": "2019-06-01 20:55:24",
             "mjd": 58635.8718,
@@ -9775,7 +9792,7 @@
             "snr": 10.6,
             "reference": "http://chime-frb.ca/catalog/FRB20190601D"
         },
-        "576": {
+        "577": {
             "frb": "FRB 20190603A",
             "utc": "2019-06-03 17:09:23",
             "mjd": 58637.71485,
@@ -9792,7 +9809,7 @@
             "snr": 9.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190603A"
         },
-        "577": {
+        "578": {
             "frb": "FRB 20190603B",
             "utc": "2019-06-03 6:25:20",
             "mjd": 58637.26759,
@@ -9809,7 +9826,7 @@
             "snr": 11.8,
             "reference": "http://chime-frb.ca/catalog/FRB20190603B"
         },
-        "578": {
+        "579": {
             "frb": "FRB 20190604A",
             "utc": "2019-06-04 5:49:57",
             "mjd": 58638.24302,
@@ -9826,7 +9843,7 @@
             "snr": 33.8,
             "reference": "http://chime-frb.ca/catalog/FRB20190604A"
         },
-        "579": {
+        "580": {
             "frb": "FRB 20190604B",
             "utc": "2019-06-04 17:11:40",
             "mjd": 58638.71644,
@@ -9843,7 +9860,7 @@
             "snr": 13.53,
             "reference": "https://www.wis-tns.org/object/20190604b"
         },
-        "580": {
+        "581": {
             "frb": "FRB 20190604C",
             "utc": "2019-06-04 20:17:41",
             "mjd": 58638.84561,
@@ -9860,7 +9877,7 @@
             "snr": 45.1,
             "reference": "http://chime-frb.ca/catalog/FRB20190604C"
         },
-        "581": {
+        "582": {
             "frb": "FRB 20190604D",
             "utc": "2019-06-04 4:31:39",
             "mjd": 58638.18865,
@@ -9877,7 +9894,7 @@
             "snr": 15.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190604D"
         },
-        "582": {
+        "583": {
             "frb": "FRB 20190604E",
             "utc": "2019-06-04 6:55:50",
             "mjd": 58638.28877,
@@ -9894,7 +9911,7 @@
             "snr": 16.8,
             "reference": "http://chime-frb.ca/catalog/FRB20190604E"
         },
-        "583": {
+        "584": {
             "frb": "FRB 20190604F",
             "utc": "2019-06-04 17:11:40",
             "mjd": 58638.71643,
@@ -9911,7 +9928,7 @@
             "snr": 42.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190604F"
         },
-        "584": {
+        "585": {
             "frb": "FRB 20190604G",
             "utc": "2019-06-04 23:12:26",
             "mjd": 58638.96697,
@@ -9928,7 +9945,7 @@
             "snr": 21.1,
             "reference": "http://chime-frb.ca/catalog/FRB20190604G"
         },
-        "585": {
+        "586": {
             "frb": "FRB 20190605A",
             "utc": "2019-06-05 16:56:05",
             "mjd": 58639.70561,
@@ -9945,7 +9962,7 @@
             "snr": 23.0,
             "reference": "http://chime-frb.ca/catalog/FRB20190605A"
         },
-        "586": {
+        "587": {
             "frb": "FRB 20190605B",
             "utc": "2019-06-05 17:02:31",
             "mjd": 58639.71008,
@@ -9962,7 +9979,7 @@
             "snr": 25.5,
             "reference": "http://chime-frb.ca/catalog/FRB20190605B"
         },
-        "587": {
+        "588": {
             "frb": "FRB 20190605C",
             "utc": "2019-06-05 2:20:47",
             "mjd": 58639.09777,
@@ -9979,7 +9996,7 @@
             "snr": 25.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190605C"
         },
-        "588": {
+        "589": {
             "frb": "FRB 20190605D",
             "utc": "2019-06-05 16:53:06",
             "mjd": 58639.70354,
@@ -9996,7 +10013,7 @@
             "snr": 10.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190605D"
         },
-        "589": {
+        "590": {
             "frb": "FRB 20190606A",
             "utc": "2019-06-06 5:34:32",
             "mjd": 58640.23231,
@@ -10013,7 +10030,7 @@
             "snr": 10.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190606A"
         },
-        "590": {
+        "591": {
             "frb": "FRB 20190606B",
             "utc": "2019-06-06 22:19:38",
             "mjd": 58640.9303,
@@ -10030,7 +10047,7 @@
             "snr": 29.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190606B"
         },
-        "591": {
+        "592": {
             "frb": "FRB 20190607A",
             "utc": "2019-06-07 16:39:33",
             "mjd": 58641.69413,
@@ -10047,7 +10064,7 @@
             "snr": 97.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190607A"
         },
-        "592": {
+        "593": {
             "frb": "FRB 20190607B",
             "utc": "2019-06-07 17:41:57",
             "mjd": 58641.73747,
@@ -10064,7 +10081,7 @@
             "snr": 15.8,
             "reference": "http://chime-frb.ca/catalog/FRB20190607B"
         },
-        "593": {
+        "594": {
             "frb": "FRB 20190608A",
             "utc": "2019-06-08 14:53:12",
             "mjd": 58642.62028,
@@ -10081,7 +10098,7 @@
             "snr": 12.1,
             "reference": "http://chime-frb.ca/catalog/FRB20190608A"
         },
-        "594": {
+        "595": {
             "frb": "FRB 20190608B",
             "utc": "2019-06-08 22:48:13",
             "mjd": 58642.95015,
@@ -10098,7 +10115,7 @@
             "snr": 16.1,
             "reference": "https://www.wis-tns.org/object/20190608b"
         },
-        "595": {
+        "596": {
             "frb": "FRB 20190609A",
             "utc": "2019-06-09 2:46:02",
             "mjd": 58643.1153,
@@ -10115,7 +10132,7 @@
             "snr": 10.8,
             "reference": "http://chime-frb.ca/catalog/FRB20190609A"
         },
-        "596": {
+        "597": {
             "frb": "FRB 20190609B",
             "utc": "2019-06-09 16:47:41",
             "mjd": 58643.69978,
@@ -10132,7 +10149,7 @@
             "snr": 41.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190609B"
         },
-        "597": {
+        "598": {
             "frb": "FRB 20190609C",
             "utc": "2019-06-09 19:39:10",
             "mjd": 58643.81886,
@@ -10149,7 +10166,7 @@
             "snr": 11.0,
             "reference": "http://chime-frb.ca/catalog/FRB20190609C"
         },
-        "598": {
+        "599": {
             "frb": "FRB 20190609D",
             "utc": "2019-06-09 22:33:14",
             "mjd": 58643.93975,
@@ -10166,7 +10183,7 @@
             "snr": 16.6,
             "reference": "http://chime-frb.ca/catalog/FRB20190609D"
         },
-        "599": {
+        "600": {
             "frb": "FRB 20190611A",
             "utc": "2019-06-11 18:52:42",
             "mjd": 58645.7866,
@@ -10183,7 +10200,7 @@
             "snr": 15.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190611A"
         },
-        "600": {
+        "601": {
             "frb": "FRB 20190611B",
             "utc": "2019-06-11 5:45:43",
             "mjd": 58645.24008,
@@ -10200,7 +10217,7 @@
             "snr": 9.3,
             "reference": "https://www.wis-tns.org/object/20190611b"
         },
-        "601": {
+        "602": {
             "frb": "FRB 20190612A",
             "utc": "2019-06-12 0:37:00",
             "mjd": 58646.02569,
@@ -10217,7 +10234,7 @@
             "snr": 16.6,
             "reference": "http://chime-frb.ca/catalog/FRB20190612A"
         },
-        "602": {
+        "603": {
             "frb": "FRB 20190612B",
             "utc": "2019-06-12 5:30:43",
             "mjd": 58646.22966,
@@ -10234,7 +10251,7 @@
             "snr": 10.8,
             "reference": "http://chime-frb.ca/catalog/FRB20190612B"
         },
-        "603": {
+        "604": {
             "frb": "FRB 20190612C",
             "utc": "2019-06-12 19:59:13",
             "mjd": 58646.83279,
@@ -10251,7 +10268,7 @@
             "snr": 38.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190612C"
         },
-        "604": {
+        "605": {
             "frb": "FRB 20190613A",
             "utc": "2019-06-13 7:45:24",
             "mjd": 58647.32319,
@@ -10268,7 +10285,7 @@
             "snr": 18.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190613A"
         },
-        "605": {
+        "606": {
             "frb": "FRB 20190613B",
             "utc": "2019-06-13 18:56:23",
             "mjd": 58647.78916,
@@ -10285,7 +10302,7 @@
             "snr": 37.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190613B"
         },
-        "606": {
+        "607": {
             "frb": "FRB 20190614A",
             "utc": "2019-06-14 3:46:15",
             "mjd": 58648.15712,
@@ -10302,7 +10319,7 @@
             "snr": 12.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190614A"
         },
-        "607": {
+        "608": {
             "frb": "FRB 20190614B",
             "utc": "2019-06-14 12:41:34",
             "mjd": 58648.52886,
@@ -10319,7 +10336,7 @@
             "snr": 57.6,
             "reference": "http://chime-frb.ca/catalog/FRB20190614B"
         },
-        "608": {
+        "609": {
             "frb": "FRB 20190614C",
             "utc": "2019-06-14 14:13:10",
             "mjd": 58648.59248,
@@ -10336,7 +10353,7 @@
             "snr": 12.0,
             "reference": "http://chime-frb.ca/catalog/FRB20190614C"
         },
-        "609": {
+        "610": {
             "frb": "FRB 20190614D",
             "utc": "2019-06-14 1:13:02",
             "mjd": 58648.05072,
@@ -10347,13 +10364,13 @@
             "b": 16.54,
             "frequency": 1400.0,
             "dm": 959.2,
-            "flux": 124.0,
+            "flux": 0.124,
             "width": null,
             "fluence": 0.63,
             "snr": 8.3,
             "reference": "https://www.wis-tns.org/object/20190614d"
         },
-        "610": {
+        "611": {
             "frb": "FRB 20190616A",
             "utc": "2019-06-16 5:56:37",
             "mjd": 58650.24765,
@@ -10370,7 +10387,7 @@
             "snr": 14.6,
             "reference": "http://chime-frb.ca/catalog/FRB20190616A"
         },
-        "611": {
+        "612": {
             "frb": "FRB 20190617A",
             "utc": "2019-06-17 2:12:39",
             "mjd": 58651.09212,
@@ -10387,7 +10404,7 @@
             "snr": 27.1,
             "reference": "http://chime-frb.ca/catalog/FRB20190617A"
         },
-        "612": {
+        "613": {
             "frb": "FRB 20190617B",
             "utc": "2019-06-17 18:05:01",
             "mjd": 58651.75348,
@@ -10404,7 +10421,7 @@
             "snr": 12.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190617B"
         },
-        "613": {
+        "614": {
             "frb": "FRB 20190617C",
             "utc": "2019-06-17 23:13:38",
             "mjd": 58651.9678,
@@ -10421,7 +10438,7 @@
             "snr": 14.1,
             "reference": "http://chime-frb.ca/catalog/FRB20190617C"
         },
-        "614": {
+        "615": {
             "frb": "FRB 20190618A",
             "utc": "2019-06-18 11:42:12",
             "mjd": 58652.48764,
@@ -10438,7 +10455,7 @@
             "snr": 33.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190618A"
         },
-        "615": {
+        "616": {
             "frb": "FRB 20190619A",
             "utc": "2019-06-19 1:16:36",
             "mjd": 58653.0532,
@@ -10455,7 +10472,7 @@
             "snr": 14.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190619A"
         },
-        "616": {
+        "617": {
             "frb": "FRB 20190619B",
             "utc": "2019-06-19 5:45:50",
             "mjd": 58653.24016,
@@ -10472,7 +10489,7 @@
             "snr": 19.7,
             "reference": "http://chime-frb.ca/catalog/FRB20190619B"
         },
-        "617": {
+        "618": {
             "frb": "FRB 20190619C",
             "utc": "2019-06-19 16:46:36",
             "mjd": 58653.69903,
@@ -10489,7 +10506,7 @@
             "snr": 10.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190619C"
         },
-        "618": {
+        "619": {
             "frb": "FRB 20190619D",
             "utc": "2019-06-19 21:49:52",
             "mjd": 58653.90963,
@@ -10506,7 +10523,7 @@
             "snr": 13.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190619D"
         },
-        "619": {
+        "620": {
             "frb": "FRB 20190619E",
             "utc": "2019-06-19 2:18:26",
             "mjd": 58653.09613,
@@ -10523,7 +10540,7 @@
             "snr": 9.87,
             "reference": "https://www.wis-tns.org/object/20190619e"
         },
-        "620": {
+        "621": {
             "frb": "FRB 20190619F",
             "utc": "2019-06-19 2:40:13",
             "mjd": 58653.11126,
@@ -10540,7 +10557,7 @@
             "snr": 9.61,
             "reference": "https://www.wis-tns.org/object/20190619f"
         },
-        "621": {
+        "622": {
             "frb": "FRB 20190619G",
             "utc": "2019-06-19 3:31:06",
             "mjd": 58653.1466,
@@ -10557,7 +10574,7 @@
             "snr": 9.78,
             "reference": "https://www.wis-tns.org/object/20190619g"
         },
-        "622": {
+        "623": {
             "frb": "FRB 20190619H",
             "utc": "2019-06-19 6:41:03",
             "mjd": 58653.27851,
@@ -10574,7 +10591,7 @@
             "snr": 65.42,
             "reference": "https://www.wis-tns.org/object/20190619h"
         },
-        "623": {
+        "624": {
             "frb": "FRB 20190621A",
             "utc": "2019-06-21 2:21:24",
             "mjd": 58655.09819,
@@ -10591,7 +10608,7 @@
             "snr": 9.0,
             "reference": "http://chime-frb.ca/catalog/FRB20190621A"
         },
-        "624": {
+        "625": {
             "frb": "FRB 20190621B",
             "utc": "2019-06-21 2:52:52",
             "mjd": 58655.12005,
@@ -10608,7 +10625,7 @@
             "snr": 11.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190621B"
         },
-        "625": {
+        "626": {
             "frb": "FRB 20190621C",
             "utc": "2019-06-21 3:49:42",
             "mjd": 58655.15951,
@@ -10625,7 +10642,7 @@
             "snr": 14.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190621C"
         },
-        "626": {
+        "627": {
             "frb": "FRB 20190621D",
             "utc": "2019-06-21 8:14:57",
             "mjd": 58655.34371,
@@ -10642,7 +10659,7 @@
             "snr": 17.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190621D"
         },
-        "627": {
+        "628": {
             "frb": "FRB 20190622A",
             "utc": "2019-06-22 9:46:18",
             "mjd": 58656.40715,
@@ -10659,7 +10676,7 @@
             "snr": 9.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190622A"
         },
-        "628": {
+        "629": {
             "frb": "FRB 20190623A",
             "utc": "2019-06-23 7:56:31",
             "mjd": 58657.33092,
@@ -10676,7 +10693,7 @@
             "snr": 9.6,
             "reference": "http://chime-frb.ca/catalog/FRB20190623A"
         },
-        "629": {
+        "630": {
             "frb": "FRB 20190623B",
             "utc": "2019-06-23 12:16:58",
             "mjd": 58657.51178,
@@ -10693,7 +10710,7 @@
             "snr": 25.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190623B"
         },
-        "630": {
+        "631": {
             "frb": "FRB 20190623C",
             "utc": "2019-06-23 15:08:05",
             "mjd": 58657.63061,
@@ -10710,7 +10727,7 @@
             "snr": 12.5,
             "reference": "http://chime-frb.ca/catalog/FRB20190623C"
         },
-        "631": {
+        "632": {
             "frb": "FRB 20190624A",
             "utc": "2019-06-24 1:09:39",
             "mjd": 58658.04837,
@@ -10727,7 +10744,7 @@
             "snr": 15.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190624A"
         },
-        "632": {
+        "633": {
             "frb": "FRB 20190624B",
             "utc": "2019-06-24 22:11:06",
             "mjd": 58658.92438,
@@ -10744,7 +10761,7 @@
             "snr": 39.1,
             "reference": "http://chime-frb.ca/catalog/FRB20190624B"
         },
-        "633": {
+        "634": {
             "frb": "FRB 20190625A",
             "utc": "2019-06-25 5:02:46",
             "mjd": 58659.21026,
@@ -10761,7 +10778,7 @@
             "snr": 19.8,
             "reference": "http://chime-frb.ca/catalog/FRB20190625A"
         },
-        "634": {
+        "635": {
             "frb": "FRB 20190625C",
             "utc": "2019-06-25 18:36:28",
             "mjd": 58659.77532,
@@ -10778,7 +10795,7 @@
             "snr": 12.1,
             "reference": "http://chime-frb.ca/catalog/FRB20190625C"
         },
-        "635": {
+        "636": {
             "frb": "FRB 20190625D",
             "utc": "2019-06-25 21:27:17",
             "mjd": 58659.89395,
@@ -10795,7 +10812,7 @@
             "snr": 36.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190625D"
         },
-        "636": {
+        "637": {
             "frb": "FRB 20190625E",
             "utc": "2019-06-25 17:43:47",
             "mjd": 58659.73874,
@@ -10812,7 +10829,7 @@
             "snr": 11.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190625E"
         },
-        "637": {
+        "638": {
             "frb": "FRB 20190626A",
             "utc": "2019-06-26 18:37:53",
             "mjd": 58660.77631,
@@ -10829,7 +10846,7 @@
             "snr": 11.88,
             "reference": "https://www.wis-tns.org/object/20190626a"
         },
-        "638": {
+        "639": {
             "frb": "FRB 20190627A",
             "utc": "2019-06-27 2:46:48",
             "mjd": 58661.11583,
@@ -10846,7 +10863,7 @@
             "snr": 9.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190627A"
         },
-        "639": {
+        "640": {
             "frb": "FRB 20190627B",
             "utc": "2019-06-27 6:46:26",
             "mjd": 58661.28224,
@@ -10863,7 +10880,7 @@
             "snr": 56.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190627B"
         },
-        "640": {
+        "641": {
             "frb": "FRB 20190627C",
             "utc": "2019-06-27 7:23:22",
             "mjd": 58661.30789,
@@ -10880,7 +10897,7 @@
             "snr": 49.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190627C"
         },
-        "641": {
+        "642": {
             "frb": "FRB 20190627D",
             "utc": "2019-06-27 9:21:52",
             "mjd": 58661.39018,
@@ -10897,7 +10914,7 @@
             "snr": 12.0,
             "reference": "http://chime-frb.ca/catalog/FRB20190627D"
         },
-        "642": {
+        "643": {
             "frb": "FRB 20190628A",
             "utc": "2019-06-28 2:51:50",
             "mjd": 58662.11933,
@@ -10914,7 +10931,7 @@
             "snr": 10.9,
             "reference": "http://chime-frb.ca/catalog/FRB20190628A"
         },
-        "643": {
+        "644": {
             "frb": "FRB 20190628B",
             "utc": "2019-06-28 5:56:51",
             "mjd": 58662.24781,
@@ -10931,7 +10948,7 @@
             "snr": 12.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190628B"
         },
-        "644": {
+        "645": {
             "frb": "FRB 20190628C",
             "utc": "2019-06-28 14:22:32",
             "mjd": 58662.59898,
@@ -10948,7 +10965,7 @@
             "snr": 10.0,
             "reference": "http://chime-frb.ca/catalog/FRB20190628C"
         },
-        "645": {
+        "646": {
             "frb": "FRB 20190629A",
             "utc": "2019-06-29 13:53:48",
             "mjd": 58663.57903,
@@ -10965,7 +10982,7 @@
             "snr": 10.0,
             "reference": "http://chime-frb.ca/catalog/FRB20190629A"
         },
-        "646": {
+        "647": {
             "frb": "FRB 20190630A",
             "utc": "2019-06-30 11:34:45",
             "mjd": 58664.48246,
@@ -10982,7 +10999,7 @@
             "snr": 19.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190630A"
         },
-        "647": {
+        "648": {
             "frb": "FRB 20190630B",
             "utc": "2019-06-30 11:19:17",
             "mjd": 58664.47172,
@@ -10999,7 +11016,7 @@
             "snr": 48.3,
             "reference": "http://chime-frb.ca/catalog/FRB20190630B"
         },
-        "648": {
+        "649": {
             "frb": "FRB 20190630C",
             "utc": "2019-06-30 17:50:14",
             "mjd": 58664.74322,
@@ -11016,7 +11033,7 @@
             "snr": 10.8,
             "reference": "http://chime-frb.ca/catalog/FRB20190630C"
         },
-        "649": {
+        "650": {
             "frb": "FRB 20190630D",
             "utc": "2019-06-30 22:59:54",
             "mjd": 58664.95826,
@@ -11033,7 +11050,7 @@
             "snr": 19.1,
             "reference": "http://chime-frb.ca/catalog/FRB20190630D"
         },
-        "650": {
+        "651": {
             "frb": "FRB 20190701A",
             "utc": "2019-07-01 7:52:12",
             "mjd": 58665.32792,
@@ -11050,7 +11067,7 @@
             "snr": 12.1,
             "reference": "http://chime-frb.ca/catalog/FRB20190701A"
         },
-        "651": {
+        "652": {
             "frb": "FRB 20190701B",
             "utc": "2019-07-01 9:50:44",
             "mjd": 58665.41023,
@@ -11067,7 +11084,7 @@
             "snr": 15.0,
             "reference": "http://chime-frb.ca/catalog/FRB20190701B"
         },
-        "652": {
+        "653": {
             "frb": "FRB 20190701C",
             "utc": "2019-07-01 19:37:15",
             "mjd": 58665.81753,
@@ -11084,7 +11101,7 @@
             "snr": 11.5,
             "reference": "http://chime-frb.ca/catalog/FRB20190701C"
         },
-        "653": {
+        "654": {
             "frb": "FRB 20190701D",
             "utc": "2019-07-01 20:54:07",
             "mjd": 58665.87092,
@@ -11101,7 +11118,7 @@
             "snr": 34.4,
             "reference": "http://chime-frb.ca/catalog/FRB20190701D"
         },
-        "654": {
+        "655": {
             "frb": "FRB 20190701E",
             "utc": "2019-07-01 22:32:04",
             "mjd": 58665.93893,
@@ -11118,7 +11135,7 @@
             "snr": 15.2,
             "reference": "http://chime-frb.ca/catalog/FRB20190701E"
         },
-        "655": {
+        "656": {
             "frb": "FRB 20190702A",
             "utc": "2019-07-02 1:58:15",
             "mjd": 58666.08212,
@@ -11135,7 +11152,7 @@
             "snr": 8.0,
             "reference": "https://www.wis-tns.org/object/20190702a"
         },
-        "656": {
+        "657": {
             "frb": "FRB 20190702B",
             "utc": "2019-07-02 3:14:43",
             "mjd": 58666.13522,
@@ -11152,7 +11169,7 @@
             "snr": 18.46,
             "reference": "https://www.wis-tns.org/object/20190702b"
         },
-        "657": {
+        "658": {
             "frb": "FRB 20190711A",
             "utc": "2019-07-11 1:53:41",
             "mjd": 58675.07895,
@@ -11169,7 +11186,7 @@
             "snr": null,
             "reference": "https://www.wis-tns.org/object/20190711a"
         },
-        "658": {
+        "659": {
             "frb": "FRB 20190714A",
             "utc": "2019-07-14 5:37:13",
             "mjd": 58678.23418,
@@ -11186,7 +11203,7 @@
             "snr": null,
             "reference": "https://www.wis-tns.org/object/20190714a"
         },
-        "659": {
+        "660": {
             "frb": "FRB 20190718A",
             "utc": "2019-07-18 1:11:23",
             "mjd": 58682.04957,
@@ -11203,7 +11220,7 @@
             "snr": 9.35,
             "reference": "https://www.wis-tns.org/object/20190718a"
         },
-        "660": {
+        "661": {
             "frb": "FRB 20190804A",
             "utc": "2019-08-04 19:54:30",
             "mjd": 58699.82951,
@@ -11220,7 +11237,7 @@
             "snr": 11.7,
             "reference": "https://arxiv.org/abs/2009.01214"
         },
-        "661": {
+        "662": {
             "frb": "FRB 20190806A",
             "utc": "2019-08-06 6:37:10",
             "mjd": 58701.27581,
@@ -11237,7 +11254,7 @@
             "snr": 9.11,
             "reference": "https://www.wis-tns.org/object/20190806a"
         },
-        "662": {
+        "663": {
             "frb": "FRB 20190809A",
             "utc": "2019-08-09 12:50:49",
             "mjd": 58704.53529,
@@ -11254,7 +11271,7 @@
             "snr": 16.78,
             "reference": "https://www.wis-tns.org/object/20190809a"
         },
-        "663": {
+        "664": {
             "frb": "FRB 20190810A",
             "utc": "2019-08-10 8:52:30",
             "mjd": 58705.36979,
@@ -11271,7 +11288,7 @@
             "snr": 31.53,
             "reference": "https://www.wis-tns.org/object/20190810a"
         },
-        "664": {
+        "665": {
             "frb": "FRB 20190810B",
             "utc": "2019-08-10 12:49:44",
             "mjd": 58705.53454,
@@ -11288,7 +11305,7 @@
             "snr": 9.21,
             "reference": "https://www.wis-tns.org/object/20190810b"
         },
-        "665": {
+        "666": {
             "frb": "FRB 20190815A",
             "utc": "2019-08-15 8:33:52",
             "mjd": 58710.35685,
@@ -11305,7 +11322,7 @@
             "snr": 28.01,
             "reference": "https://www.wis-tns.org/object/20190815a"
         },
-        "666": {
+        "667": {
             "frb": "FRB 20190817A",
             "utc": "2019-08-17 14:39:58",
             "mjd": 58712.61109,
@@ -11322,7 +11339,7 @@
             "snr": 8.61,
             "reference": "https://www.wis-tns.org/object/20190817a"
         },
-        "667": {
+        "668": {
             "frb": "FRB 20190824A",
             "utc": "2019-08-24 7:59:02",
             "mjd": 58719.33266,
@@ -11339,7 +11356,7 @@
             "snr": 9.08,
             "reference": "https://www.wis-tns.org/object/20190824a"
         },
-        "668": {
+        "669": {
             "frb": "FRB 20190825A",
             "utc": "2019-08-25 11:48:28",
             "mjd": 58720.49199,
@@ -11356,7 +11373,7 @@
             "snr": 51.46,
             "reference": "https://www.wis-tns.org/object/20190825a"
         },
-        "669": {
+        "670": {
             "frb": "FRB 20190825B",
             "utc": "2019-08-25 11:52:03",
             "mjd": 58720.49448,
@@ -11373,7 +11390,7 @@
             "snr": 10.53,
             "reference": "https://www.wis-tns.org/object/20190825b"
         },
-        "670": {
+        "671": {
             "frb": "FRB 20190825C",
             "utc": "2019-08-25 11:53:45",
             "mjd": 58720.49566,
@@ -11390,7 +11407,7 @@
             "snr": 10.25,
             "reference": "https://www.wis-tns.org/object/20190825c"
         },
-        "671": {
+        "672": {
             "frb": "FRB 20190907A",
             "utc": "2019-09-07 17:02:48",
             "mjd": 58733.71028,
@@ -11407,7 +11424,7 @@
             "snr": 9.96,
             "reference": "https://www.wis-tns.org/object/20190907a"
         },
-        "672": {
+        "673": {
             "frb": "FRB 20190915A",
             "utc": "2019-09-15 16:27:41",
             "mjd": 58741.68589,
@@ -11424,7 +11441,7 @@
             "snr": 10.94,
             "reference": "https://www.wis-tns.org/object/20190915a"
         },
-        "673": {
+        "674": {
             "frb": "FRB 20190925A",
             "utc": "2019-09-25 15:54:11",
             "mjd": 58751.66263,
@@ -11441,7 +11458,7 @@
             "snr": 9.98,
             "reference": "https://www.wis-tns.org/object/20190925a"
         },
-        "674": {
+        "675": {
             "frb": "FRB 20190926A",
             "utc": "2019-09-26 20:19:29",
             "mjd": 58752.84686,
@@ -11458,7 +11475,7 @@
             "snr": 9.31,
             "reference": "https://www.wis-tns.org/object/20190926a"
         },
-        "675": {
+        "676": {
             "frb": "FRB 20190929A",
             "utc": "2019-09-29 3:14:36",
             "mjd": 58755.13514,
@@ -11475,7 +11492,7 @@
             "snr": 11.45,
             "reference": "https://www.wis-tns.org/object/20190929a"
         },
-        "676": {
+        "677": {
             "frb": "FRB 20191001A",
             "utc": "2019-10-01 16:55:36",
             "mjd": 58757.70528,
@@ -11492,7 +11509,7 @@
             "snr": 62.0,
             "reference": "https://www.wis-tns.org/object/20191001a"
         },
-        "677": {
+        "678": {
             "frb": "FRB 20191013A",
             "utc": "2019-10-13 20:31:26",
             "mjd": 58769.85516,
@@ -11509,7 +11526,7 @@
             "snr": 9.74,
             "reference": "https://www.wis-tns.org/object/20191013a"
         },
-        "678": {
+        "679": {
             "frb": "FRB 20191018A",
             "utc": "2019-10-18 18:33:33",
             "mjd": 58774.7733,
@@ -11526,7 +11543,7 @@
             "snr": 18.12,
             "reference": "https://www.wis-tns.org/object/20191018a"
         },
-        "679": {
+        "680": {
             "frb": "FRB 20191020A",
             "utc": "2019-10-20 19:48:51",
             "mjd": 58776.82559,
@@ -11543,7 +11560,7 @@
             "snr": 22.89,
             "reference": "https://www.wis-tns.org/object/20191020a"
         },
-        "680": {
+        "681": {
             "frb": "FRB 20191021A",
             "utc": "2019-10-21 14:18:09",
             "mjd": 58777.59594,
@@ -11560,7 +11577,7 @@
             "snr": 109.04,
             "reference": "https://www.wis-tns.org/object/20191021a"
         },
-        "681": {
+        "682": {
             "frb": "FRB 20191029A",
             "utc": "2019-10-29 9:41:59",
             "mjd": 58785.40416,
@@ -11577,7 +11594,7 @@
             "snr": 12.82,
             "reference": "https://www.wis-tns.org/object/20191029a"
         },
-        "682": {
+        "683": {
             "frb": "FRB 20191029B",
             "utc": "2019-10-29 19:24:06",
             "mjd": 58785.8084,
@@ -11594,7 +11611,7 @@
             "snr": 8.69,
             "reference": "https://www.wis-tns.org/object/20191029b"
         },
-        "683": {
+        "684": {
             "frb": "FRB 20191030A",
             "utc": "2019-10-30 7:33:57",
             "mjd": 58786.31524,
@@ -11611,7 +11628,7 @@
             "snr": 8.09,
             "reference": "https://www.wis-tns.org/object/20191030a"
         },
-        "684": {
+        "685": {
             "frb": "FRB 20191030B",
             "utc": "2019-10-30 7:41:53",
             "mjd": 58786.32075,
@@ -11628,7 +11645,7 @@
             "snr": 12.67,
             "reference": "https://www.wis-tns.org/object/20191030b"
         },
-        "685": {
+        "686": {
             "frb": "FRB 20191107A",
             "utc": "2019-11-07 21:23:07",
             "mjd": 58794.89105,
@@ -11645,7 +11662,7 @@
             "snr": 8.39,
             "reference": "https://www.wis-tns.org/object/20191107a"
         },
-        "686": {
+        "687": {
             "frb": "FRB 20191107B",
             "utc": "2019-11-07 18:55:37",
             "mjd": 58794.78862,
@@ -11662,7 +11679,7 @@
             "snr": 23.3,
             "reference": "https://www.wis-tns.org/object/20191107b"
         },
-        "687": {
+        "688": {
             "frb": "FRB 20191108A",
             "utc": "2019-11-08 19:48:50",
             "mjd": 58795.82558,
@@ -11679,7 +11696,7 @@
             "snr": 103.0,
             "reference": "https://www.wis-tns.org/object/20191108a"
         },
-        "688": {
+        "689": {
             "frb": "FRB 20191110A",
             "utc": "2019-11-10 18:33:02",
             "mjd": 58797.77294,
@@ -11696,7 +11713,7 @@
             "snr": 20.51,
             "reference": "https://www.wis-tns.org/object/20191110a"
         },
-        "689": {
+        "690": {
             "frb": "FRB 20191111A",
             "utc": "2019-11-11 8:55:16",
             "mjd": 58798.37171,
@@ -11713,7 +11730,7 @@
             "snr": 12.29,
             "reference": "https://www.wis-tns.org/object/20191111a"
         },
-        "690": {
+        "691": {
             "frb": "FRB 20191113A",
             "utc": "2019-11-13 18:12:28",
             "mjd": 58800.75866,
@@ -11730,7 +11747,7 @@
             "snr": 13.5,
             "reference": "https://www.wis-tns.org/object/20191113a"
         },
-        "691": {
+        "692": {
             "frb": "FRB 20191115A",
             "utc": "2019-11-15 6:12:06",
             "mjd": 58802.2584,
@@ -11747,7 +11764,7 @@
             "snr": 11.3,
             "reference": "https://www.wis-tns.org/object/20191115a"
         },
-        "692": {
+        "693": {
             "frb": "FRB 20191116A",
             "utc": "2019-11-16 18:09:51",
             "mjd": 58803.75684,
@@ -11764,7 +11781,7 @@
             "snr": 28.77,
             "reference": "https://www.wis-tns.org/object/20191116a"
         },
-        "693": {
+        "694": {
             "frb": "FRB 20191117A",
             "utc": "2019-11-17 18:18:31",
             "mjd": 58804.76286,
@@ -11781,7 +11798,7 @@
             "snr": 12.08,
             "reference": "https://www.wis-tns.org/object/20191117a"
         },
-        "694": {
+        "695": {
             "frb": "FRB 20191202A",
             "utc": "2019-12-02 15:44:29",
             "mjd": 58819.65589,
@@ -11798,7 +11815,7 @@
             "snr": 7.55,
             "reference": "https://www.wis-tns.org/object/20191202a"
         },
-        "695": {
+        "696": {
             "frb": "FRB 20191205A",
             "utc": "2019-12-05 15:44:15",
             "mjd": 58822.65573,
@@ -11815,7 +11832,7 @@
             "snr": 8.32,
             "reference": "https://www.wis-tns.org/object/20191205a"
         },
-        "696": {
+        "697": {
             "frb": "FRB 20191215A",
             "utc": "2019-12-15 16:13:43",
             "mjd": 58832.67619,
@@ -11832,7 +11849,7 @@
             "snr": 15.12,
             "reference": "https://www.wis-tns.org/object/20191215a"
         },
-        "697": {
+        "698": {
             "frb": "FRB 20191217A",
             "utc": "2019-12-17 8:38:56",
             "mjd": 58834.36037,
@@ -11849,7 +11866,7 @@
             "snr": 18.98,
             "reference": "https://www.wis-tns.org/object/20191217a"
         },
-        "698": {
+        "699": {
             "frb": "FRB 20191218A",
             "utc": "2019-12-18 4:09:28",
             "mjd": 58835.17324,
@@ -11866,7 +11883,7 @@
             "snr": 12.88,
             "reference": "https://www.wis-tns.org/object/20191218a"
         },
-        "699": {
+        "700": {
             "frb": "FRB 20191219A",
             "utc": "2019-12-19 4:07:39",
             "mjd": 58836.17198,
@@ -11883,7 +11900,7 @@
             "snr": 10.05,
             "reference": "https://www.wis-tns.org/object/20191219a"
         },
-        "700": {
+        "701": {
             "frb": "FRB 20191219B",
             "utc": "2019-12-19 4:11:18",
             "mjd": 58836.17451,
@@ -11900,7 +11917,7 @@
             "snr": 17.76,
             "reference": "https://www.wis-tns.org/object/20191219b"
         },
-        "701": {
+        "702": {
             "frb": "FRB 20191219C",
             "utc": "2019-12-19 4:03:47",
             "mjd": 58836.16929,
@@ -11917,7 +11934,7 @@
             "snr": 13.3,
             "reference": "https://www.wis-tns.org/object/20191219c"
         },
-        "702": {
+        "703": {
             "frb": "FRB 20191219D",
             "utc": "2019-12-19 4:03:47",
             "mjd": 58836.16929,
@@ -11934,7 +11951,7 @@
             "snr": 28.6,
             "reference": "https://www.wis-tns.org/object/20191219d"
         },
-        "703": {
+        "704": {
             "frb": "FRB 20191219E",
             "utc": "2019-12-19 4:13:19",
             "mjd": 58836.17591,
@@ -11951,7 +11968,7 @@
             "snr": 54.9,
             "reference": "https://www.wis-tns.org/object/20191219e"
         },
-        "704": {
+        "705": {
             "frb": "FRB 20191219F",
             "utc": "2019-12-19 16:51:34",
             "mjd": 58836.70248,
@@ -11968,7 +11985,7 @@
             "snr": 173.16,
             "reference": "https://www.wis-tns.org/object/20191219f"
         },
-        "705": {
+        "706": {
             "frb": "FRB 20191220A",
             "utc": "2019-12-20 8:37:40",
             "mjd": 58837.35949,
@@ -11985,7 +12002,7 @@
             "snr": 8.06,
             "reference": "https://www.wis-tns.org/object/20191220a"
         },
-        "706": {
+        "707": {
             "frb": "FRB 20191223A",
             "utc": "2019-12-23 0:07:07",
             "mjd": 58840.00494,
@@ -12002,7 +12019,7 @@
             "snr": 9.29,
             "reference": "https://www.wis-tns.org/object/20191223a"
         },
-        "707": {
+        "708": {
             "frb": "FRB 20191223B",
             "utc": "2019-12-23 4:55:31",
             "mjd": 58840.20522,
@@ -12019,7 +12036,7 @@
             "snr": 29.4,
             "reference": "https://www.wis-tns.org/object/20191223b"
         },
-        "708": {
+        "709": {
             "frb": "FRB 20191228A",
             "utc": "2019-12-28 9:16:16",
             "mjd": 58845.3863,
@@ -12036,7 +12053,7 @@
             "snr": null,
             "reference": "https://www.wis-tns.org/object/20191228a"
         },
-        "709": {
+        "710": {
             "frb": "FRB 20191231A",
             "utc": "2019-12-31 15:17:50",
             "mjd": 58848.63738,
@@ -12053,7 +12070,7 @@
             "snr": 10.32,
             "reference": "https://www.wis-tns.org/object/20191231a"
         },
-        "710": {
+        "711": {
             "frb": "FRB 20200112A",
             "utc": "2020-01-12 14:26:34",
             "mjd": 58860.60178,
@@ -12070,7 +12087,7 @@
             "snr": 12.45,
             "reference": "https://www.wis-tns.org/object/20200112a"
         },
-        "711": {
+        "712": {
             "frb": "FRB 20200120A",
             "utc": "2020-01-20 1:49:14",
             "mjd": 58868.07586,
@@ -12087,7 +12104,7 @@
             "snr": 16.7,
             "reference": "https://www.wis-tns.org/object/20200120a"
         },
-        "712": {
+        "713": {
             "frb": "FRB 20200120B",
             "utc": "2020-01-20 1:58:23",
             "mjd": 58868.08221,
@@ -12104,7 +12121,7 @@
             "snr": 19.3,
             "reference": "https://www.wis-tns.org/object/20200120b"
         },
-        "713": {
+        "714": {
             "frb": "FRB 20200120C",
             "utc": "2020-01-20 2:01:51",
             "mjd": 58868.08462,
@@ -12121,7 +12138,7 @@
             "snr": 14.4,
             "reference": "https://www.wis-tns.org/object/20200120c"
         },
-        "714": {
+        "715": {
             "frb": "FRB 20200120D",
             "utc": "2020-01-20 2:04:59",
             "mjd": 58868.08679,
@@ -12138,12 +12155,12 @@
             "snr": 11.9,
             "reference": "https://www.wis-tns.org/object/20200120d"
         },
-        "715": {
+        "716": {
             "frb": "FRB 20200120E",
             "utc": "2020-01-20 9:57:36",
             "mjd": 58868.415,
             "telescope": "CHIME",
-            "ra": "09:45:00",
+            "ra": "9:45:00",
             "dec": "+68:46:12",
             "l": 143.1,
             "b": 40.27,
@@ -12155,7 +12172,7 @@
             "snr": 11.42,
             "reference": "https://www.wis-tns.org/object/20200120e"
         },
-        "716": {
+        "717": {
             "frb": "FRB 20200122A",
             "utc": "2020-01-22 10:20:33",
             "mjd": 58870.43094,
@@ -12172,7 +12189,7 @@
             "snr": 13.85,
             "reference": "https://www.wis-tns.org/object/20200122a"
         },
-        "717": {
+        "718": {
             "frb": "FRB 20200122B",
             "utc": "2020-01-22 10:27:00",
             "mjd": 58870.43542,
@@ -12189,7 +12206,7 @@
             "snr": 17.31,
             "reference": "https://www.wis-tns.org/object/20200122b"
         },
-        "718": {
+        "719": {
             "frb": "FRB 20200122C",
             "utc": "2020-01-22 10:28:20",
             "mjd": 58870.43634,
@@ -12206,7 +12223,7 @@
             "snr": 8.34,
             "reference": "https://www.wis-tns.org/object/20200122c"
         },
-        "719": {
+        "720": {
             "frb": "FRB 20200122D",
             "utc": "2020-01-22 22:09:31",
             "mjd": 58870.92328,
@@ -12223,7 +12240,7 @@
             "snr": 13.11,
             "reference": "https://www.wis-tns.org/object/20200122d"
         },
-        "720": {
+        "721": {
             "frb": "FRB 20200122E",
             "utc": "2020-01-22 22:09:52",
             "mjd": 58870.92352,
@@ -12240,7 +12257,7 @@
             "snr": 10.42,
             "reference": "https://www.wis-tns.org/object/20200122e"
         },
-        "721": {
+        "722": {
             "frb": "FRB 20200122F",
             "utc": "2020-01-22 22:22:21",
             "mjd": 58870.93219,
@@ -12257,7 +12274,7 @@
             "snr": 8.9,
             "reference": "https://www.wis-tns.org/object/20200122f"
         },
-        "722": {
+        "723": {
             "frb": "FRB 20200122G",
             "utc": "2020-01-22 22:23:20",
             "mjd": 58870.93287,
@@ -12274,7 +12291,7 @@
             "snr": 10.47,
             "reference": "https://www.wis-tns.org/object/20200122g"
         },
-        "723": {
+        "724": {
             "frb": "FRB 20200124A",
             "utc": "2020-01-24 18:42:58",
             "mjd": 58872.77984,
@@ -12291,7 +12308,7 @@
             "snr": 15.49,
             "reference": "https://www.wis-tns.org/object/20200124a"
         },
-        "724": {
+        "725": {
             "frb": "FRB 20200124B",
             "utc": "2020-01-24 19:24:33",
             "mjd": 58872.80872,
@@ -12308,7 +12325,7 @@
             "snr": 8.02,
             "reference": "https://www.wis-tns.org/object/20200124b"
         },
-        "725": {
+        "726": {
             "frb": "FRB 20200125A",
             "utc": "2020-01-25 12:15:20",
             "mjd": 58873.51065,
@@ -12325,7 +12342,7 @@
             "snr": 8.1,
             "reference": "https://www.wis-tns.org/object/20200125a"
         },
-        "726": {
+        "727": {
             "frb": "FRB 20200203A",
             "utc": "2020-02-03 1:07:23",
             "mjd": 58882.04679,
@@ -12342,7 +12359,7 @@
             "snr": 9.53,
             "reference": "https://www.wis-tns.org/object/20200203a"
         },
-        "727": {
+        "728": {
             "frb": "FRB 20200204A",
             "utc": "2020-02-04 0:26:55",
             "mjd": 58883.01869,
@@ -12359,7 +12376,7 @@
             "snr": 9.2,
             "reference": "https://www.wis-tns.org/object/20200204a"
         },
-        "728": {
+        "729": {
             "frb": "FRB 20200204B",
             "utc": "2020-02-04 0:57:32",
             "mjd": 58883.03995,
@@ -12376,7 +12393,7 @@
             "snr": 12.67,
             "reference": "https://www.wis-tns.org/object/20200204b"
         },
-        "729": {
+        "730": {
             "frb": "FRB 20200204C",
             "utc": "2020-02-04 0:59:50",
             "mjd": 58883.04155,
@@ -12393,7 +12410,7 @@
             "snr": 51.77,
             "reference": "https://www.wis-tns.org/object/20200204c"
         },
-        "730": {
+        "731": {
             "frb": "FRB 20200204D",
             "utc": "2020-02-04 1:03:26",
             "mjd": 58883.04405,
@@ -12410,7 +12427,7 @@
             "snr": 10.01,
             "reference": "https://www.wis-tns.org/object/20200204d"
         },
-        "731": {
+        "732": {
             "frb": "FRB 20200204E",
             "utc": "2020-02-04 1:17:21",
             "mjd": 58883.05372,
@@ -12427,7 +12444,7 @@
             "snr": 9.15,
             "reference": "https://www.wis-tns.org/object/20200204e"
         },
-        "732": {
+        "733": {
             "frb": "FRB 20200219A",
             "utc": "2020-02-19 23:53:37",
             "mjd": 58898.99557,
@@ -12444,7 +12461,7 @@
             "snr": 8.83,
             "reference": "https://www.wis-tns.org/object/20200219a"
         },
-        "733": {
+        "734": {
             "frb": "FRB 20200220A",
             "utc": "2020-02-20 0:10:10",
             "mjd": 58899.00706,
@@ -12461,7 +12478,7 @@
             "snr": 11.79,
             "reference": "https://www.wis-tns.org/object/20200220a"
         },
-        "734": {
+        "735": {
             "frb": "FRB 20200220B",
             "utc": "2020-02-20 13:28:26",
             "mjd": 58899.56141,
@@ -12478,7 +12495,7 @@
             "snr": 31.7,
             "reference": "https://www.wis-tns.org/object/20200220b"
         },
-        "735": {
+        "736": {
             "frb": "FRB 20200220C",
             "utc": "2020-02-20 13:37:39",
             "mjd": 58899.56781,
@@ -12495,7 +12512,7 @@
             "snr": 13.6,
             "reference": "https://www.wis-tns.org/object/20200220c"
         },
-        "736": {
+        "737": {
             "frb": "FRB 20200220D",
             "utc": "2020-02-20 13:48:53",
             "mjd": 58899.57561,
@@ -12512,7 +12529,7 @@
             "snr": 16.0,
             "reference": "https://www.wis-tns.org/object/20200220d"
         },
-        "737": {
+        "738": {
             "frb": "FRB 20200221A",
             "utc": "2020-02-21 0:09:49",
             "mjd": 58900.00682,
@@ -12529,7 +12546,7 @@
             "snr": 24.72,
             "reference": "https://www.wis-tns.org/object/20200221a"
         },
-        "738": {
+        "739": {
             "frb": "FRB 20200224A",
             "utc": "2020-02-24 1:47:54",
             "mjd": 58903.07493,
@@ -12546,7 +12563,7 @@
             "snr": 9.2,
             "reference": "https://www.wis-tns.org/object/20200224a"
         },
-        "739": {
+        "740": {
             "frb": "FRB 20200302A",
             "utc": "2020-03-02 1:52:16",
             "mjd": 58910.07796,
@@ -12563,7 +12580,7 @@
             "snr": 15.18,
             "reference": "https://www.wis-tns.org/object/20200302a"
         },
-        "740": {
+        "741": {
             "frb": "FRB 20200307A",
             "utc": "2020-03-07 5:07:50",
             "mjd": 58915.21377,
@@ -12580,7 +12597,7 @@
             "snr": 8.69,
             "reference": "https://www.wis-tns.org/object/20200307a"
         },
-        "741": {
+        "742": {
             "frb": "FRB 20200314A",
             "utc": "2020-03-14 15:22:41",
             "mjd": 58922.64075,
@@ -12597,7 +12614,7 @@
             "snr": 29.3,
             "reference": "https://www.wis-tns.org/object/20200314a"
         },
-        "742": {
+        "743": {
             "frb": "FRB 20200323A",
             "utc": "2020-03-23 10:07:03",
             "mjd": 58931.42156,
@@ -12614,7 +12631,7 @@
             "snr": 95.51,
             "reference": "https://www.wis-tns.org/object/20200323a"
         },
-        "743": {
+        "744": {
             "frb": "FRB 20200323B",
             "utc": "2020-03-23 10:53:35",
             "mjd": 58931.45388,
@@ -12631,7 +12648,7 @@
             "snr": 114.75,
             "reference": "https://www.wis-tns.org/object/20200323b"
         },
-        "744": {
+        "745": {
             "frb": "FRB 20200324A",
             "utc": "2020-03-24 21:35:54",
             "mjd": 58932.89993,
@@ -12648,7 +12665,7 @@
             "snr": 13.02,
             "reference": "https://www.wis-tns.org/object/20200324a"
         },
-        "745": {
+        "746": {
             "frb": "FRB 20200324B",
             "utc": "2020-03-24 8:28:41",
             "mjd": 58932.35325,
@@ -12665,7 +12682,7 @@
             "snr": 11.6,
             "reference": "https://www.wis-tns.org/object/20200324b"
         },
-        "746": {
+        "747": {
             "frb": "FRB 20200324C",
             "utc": "2020-03-24 9:31:24",
             "mjd": 58932.39681,
@@ -12682,7 +12699,7 @@
             "snr": 26.65,
             "reference": "https://www.wis-tns.org/object/20200324c"
         },
-        "747": {
+        "748": {
             "frb": "FRB 20200405A",
             "utc": "2020-04-05 5:34:54",
             "mjd": 58944.23257,
@@ -12699,7 +12716,7 @@
             "snr": 11.29,
             "reference": "https://iopscience.iop.org/article/10.3847/2515-5172/abea22"
         },
-        "748": {
+        "749": {
             "frb": "FRB 20200423A",
             "utc": "2020-04-23 20:11:20",
             "mjd": 58962.8412,
@@ -12716,7 +12733,7 @@
             "snr": 13.0,
             "reference": "https://www.wis-tns.org/object/20200423a"
         },
-        "749": {
+        "750": {
             "frb": "FRB 20200508A",
             "utc": "2020-05-08 7:42:10",
             "mjd": 58977.32095,
@@ -12733,7 +12750,7 @@
             "snr": 14.33,
             "reference": "https://www.wis-tns.org/object/20200508a"
         },
-        "750": {
+        "751": {
             "frb": "FRB 20200607A",
             "utc": "2020-06-07 10:37:22",
             "mjd": 59007.44262,
@@ -12750,7 +12767,7 @@
             "snr": 41.0,
             "reference": "https://www.wis-tns.org/object/20200607a"
         },
-        "751": {
+        "752": {
             "frb": "FRB 20200616A",
             "utc": "2020-06-16 6:31:13",
             "mjd": 59016.27168,
@@ -12767,7 +12784,7 @@
             "snr": 41.04,
             "reference": "https://www.wis-tns.org/object/20200616a"
         },
-        "752": {
+        "753": {
             "frb": "FRB 20200627A",
             "utc": "2020-06-27 19:23:42",
             "mjd": 59027.80812,
@@ -12784,7 +12801,7 @@
             "snr": 11.0,
             "reference": "https://www.wis-tns.org/object/20200627a"
         },
-        "753": {
+        "754": {
             "frb": "FRB 20200718A",
             "utc": "2020-07-18 22:12:32",
             "mjd": 59048.92537,
@@ -12801,7 +12818,7 @@
             "snr": 8.36,
             "reference": "https://www.wis-tns.org/object/20200718a"
         },
-        "754": {
+        "755": {
             "frb": "FRB 20200906A",
             "utc": "2020-09-06 21:40:51",
             "mjd": 59098.90337,
@@ -12818,7 +12835,7 @@
             "snr": 16.1,
             "reference": "https://www.wis-tns.org/object/20200906a"
         },
-        "755": {
+        "756": {
             "frb": "FRB 20201124A",
             "utc": "2020-11-24 8:50:42",
             "mjd": 59177.36854,
@@ -12835,7 +12852,7 @@
             "snr": 13.78,
             "reference": "https://www.wis-tns.org/object/20201124a"
         },
-        "756": {
+        "757": {
             "frb": "FRB 20201124B",
             "utc": "2020-11-24 8:54:46",
             "mjd": 59177.37137,
@@ -12852,7 +12869,7 @@
             "snr": 10.31,
             "reference": "https://www.wis-tns.org/object/20201124b"
         },
-        "757": {
+        "758": {
             "frb": "FRB 20201129A",
             "utc": "2020-11-29 13:31:30",
             "mjd": 59182.56354,
@@ -12869,7 +12886,7 @@
             "snr": 15.5,
             "reference": "https://www.wis-tns.org/object/20201129a"
         },
-        "758": {
+        "759": {
             "frb": "FRB 20201210A",
             "utc": "2020-12-10 7:54:43",
             "mjd": 59193.32966,
@@ -12886,7 +12903,7 @@
             "snr": 26.86,
             "reference": "https://www.wis-tns.org/object/20201210a"
         },
-        "759": {
+        "760": {
             "frb": "FRB 20201216A",
             "utc": "2020-12-16 7:29:19",
             "mjd": 59199.31203,
@@ -12903,7 +12920,7 @@
             "snr": 9.4,
             "reference": "https://www.wis-tns.org/object/20201216a"
         },
-        "760": {
+        "761": {
             "frb": "FRB 20210117A",
             "utc": "2021-01-17 7:51:21",
             "mjd": 59231.32733,
@@ -12920,7 +12937,7 @@
             "snr": 27.1,
             "reference": "https://www.wis-tns.org/object/20210117a"
         },
-        "761": {
+        "762": {
             "frb": "FRB 20210220A",
             "utc": "2021-02-20 3:06:23",
             "mjd": 59265.12943,
@@ -12937,7 +12954,7 @@
             "snr": 9.84,
             "reference": "https://www.wis-tns.org/object/20210220a"
         },
-        "762": {
+        "763": {
             "frb": "FRB 20210301A",
             "utc": "2021-03-01 2:28:45",
             "mjd": 59274.1033,
@@ -12954,7 +12971,7 @@
             "snr": 16.22,
             "reference": "https://www.wis-tns.org/object/20210301a"
         },
-        "763": {
+        "764": {
             "frb": "FRB 20210303A",
             "utc": "2021-03-03 1:28:47",
             "mjd": 59276.06166,
@@ -12971,7 +12988,7 @@
             "snr": 21.8,
             "reference": "https://www.wis-tns.org/object/20210303a"
         },
-        "764": {
+        "765": {
             "frb": "FRB 20210321A",
             "utc": "2021-03-21 1:12:23",
             "mjd": 59294.05027,
@@ -12988,7 +13005,7 @@
             "snr": 15.58,
             "reference": "https://www.wis-tns.org/object/20210321a"
         },
-        "765": {
+        "766": {
             "frb": "FRB 20210322A",
             "utc": "2021-03-22 1:10:44",
             "mjd": 59295.04912,
@@ -13005,7 +13022,7 @@
             "snr": 13.51,
             "reference": "https://www.wis-tns.org/object/20210322a"
         },
-        "766": {
+        "767": {
             "frb": "FRB 20210323A",
             "utc": "2021-03-23 1:08:04",
             "mjd": 59296.04727,
@@ -13022,7 +13039,7 @@
             "snr": 18.09,
             "reference": "https://www.wis-tns.org/object/20210323a"
         },
-        "767": {
+        "768": {
             "frb": "FRB 20210326A",
             "utc": "2021-03-26 0:53:51",
             "mjd": 59299.0374,
@@ -13039,7 +13056,7 @@
             "snr": 20.2,
             "reference": "https://www.wis-tns.org/object/20210326a"
         },
-        "768": {
+        "769": {
             "frb": "FRB 20210327A",
             "utc": "2021-03-27 0:46:22",
             "mjd": 59300.0322,
@@ -13056,7 +13073,7 @@
             "snr": 17.61,
             "reference": "https://www.wis-tns.org/object/20210327a"
         },
-        "769": {
+        "770": {
             "frb": "FRB 20210327B",
             "utc": "2021-03-27 0:53:11",
             "mjd": 59300.03693,
@@ -13073,7 +13090,7 @@
             "snr": 10.78,
             "reference": "https://www.wis-tns.org/object/20210327b"
         },
-        "770": {
+        "771": {
             "frb": "FRB 20210327C",
             "utc": "2021-03-27 0:53:11",
             "mjd": 59300.03693,
@@ -13090,7 +13107,7 @@
             "snr": 12.81,
             "reference": "https://www.wis-tns.org/object/20210327c"
         },
-        "771": {
+        "772": {
             "frb": "FRB 20210328A",
             "utc": "2021-03-28 0:49:08",
             "mjd": 59301.03412,
@@ -13107,7 +13124,7 @@
             "snr": 9.38,
             "reference": "https://www.wis-tns.org/object/20210328a"
         },
-        "772": {
+        "773": {
             "frb": "FRB 20210401A",
             "utc": "2021-04-01 11:33:02",
             "mjd": 59305.48127,
@@ -13124,7 +13141,7 @@
             "snr": 64.0,
             "reference": "https://www.wis-tns.org/object/20210401a"
         },
-        "773": {
+        "774": {
             "frb": "FRB 20210402A",
             "utc": "2021-04-02 5:48:59",
             "mjd": 59306.24235,
@@ -13141,7 +13158,24 @@
             "snr": 13.4,
             "reference": "https://www.wis-tns.org/object/20210402a"
         },
-        "774": {
+        "775": {
+            "frb": "FRB 20210404B",
+            "utc": "2021-04-04 7:46:46",
+            "mjd": 59308.32414,
+            "telescope": "ASKAP",
+            "ra": "5:08:03.55",
+            "dec": "+26:03:39.1",
+            "l": 177.77,
+            "b": -8.52,
+            "frequency": 1271.5,
+            "dm": 414.0,
+            "flux": 4.5,
+            "width": null,
+            "fluence": 11.0,
+            "snr": 12.2,
+            "reference": "https://arxiv.org/abs/2106.11993"
+        },
+        "776": {
             "frb": "FRB 20210415A",
             "utc": "2021-04-15 12:23:19",
             "mjd": 59319.51619,
@@ -13158,7 +13192,7 @@
             "snr": 85.0,
             "reference": "https://www.astronomerstelegram.org/?read=14556"
         },
-        "775": {
+        "777": {
             "frb": "FRB 20210518A",
             "utc": "2021-05-18 1:26:12",
             "mjd": 59352.05986,
