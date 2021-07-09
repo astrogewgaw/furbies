@@ -27,6 +27,7 @@ with open("furbies.json", "w+") as fobj:
                             "fluence": float,
                             "snr": float,
                             "reference": str,
+                            "redshift": float,
                         }[key](value)
                     )
                     for key, value in row.items()
