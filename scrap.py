@@ -1,48 +1,24 @@
-from json import dump
-from requests import get
-from csv import DictReader
+if __name__ == "__main__":
 
+    import pandas as pd  # type: ignore
+    from textwrap import dedent
 
-with open("furbies.json", "w+") as fobj:
-    dump(
-        obj=dict(
-            data={
-                str(i + 1): {
-                    key: (
-                        None
-                        if value == "-"
-                        else {
-                            "frb": str,
-                            "utc": str,
-                            "mjd": float,
-                            "telescope": str,
-                            "ra": str,
-                            "dec": str,
-                            "l": float,
-                            "b": float,
-                            "frequency": float,
-                            "dm": float,
-                            "flux": float,
-                            "width": float,
-                            "fluence": float,
-                            "snr": float,
-                            "reference": str,
-                            "redshift": float,
-                        }[key](value)
-                    )
-                    for key, value in row.items()
-                }
-                for i, row in enumerate(
-                    DictReader(
-                        get(
-                            "https://raw.githubusercontent.com/HeRTA/FRBSTATS/main/catalogue.csv"
-                        )
-                        .content.decode()
-                        .splitlines()
-                    )
-                )
-            }
-        ),
-        fp=fobj,
+    df = pd.read_csv(
+        dedent(
+            """
+            https://
+            docs.google.com/
+            spreadsheets/
+            d/
+            1W27KNa6yJzYA_b8HLSz4hxtWEZQtxUhGTXfQjlXgpzY/
+            export?format=csv&
+            gid=1560822367
+            """
+        )
+        .replace("\n", "")
+        .strip()
+    ).to_json(
+        "furbies.json",
         indent=4,
+        orient="index",
     )
