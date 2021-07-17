@@ -1,15 +1,27 @@
 # furbies
 
+![License][license]
+[![Gitmoji][gitmoji-badge]][gitmoji]
 [![Code style: black][black-badge]][black]
+[![Powering koshka][koshka-badge]][koshka]
 
-this is my own copy of the database of **f**ast **r**adio **b**ursts (**FRB**s), which is now maintained as a part of the [**T**ransient **N**ame **S**erver (**TNS**)][TNS]), the official IAU mechanism for reporting new astronomical transients. the code that scraps the database is in the [**scrap.py**](scrap.py) file, and the data itself (in all of its JSONic glory) is in the [**furbies.json**](furbies.json) file. the data is updated on the 15th of every month, at midnight. if you want the latest version of this database, the easiest way would be to git clone this repository, and running the scraping code yourself.
+## A database of FRBs for koshka :cat:
 
-> :warning: **warning!**
-> i could have scraped the database two ways: by getting an api token from the **TNS**, downloading the entire database as a CSV, and parsing all the FRBs from it, or by scraping the webpages themselves. i have chosen the latter method. since the workflow runs only once a month, i hope to never drastically affect the operation of the **TNS**. if you use the code in the repository to scrap the database yourself, please keep this in mind. you do so at your own risk.
+<div align="justify">
 
-this repository powers the [**koshka**][koshka] package, which aims to make accessing catalogues on pulsars and radio transients easier.
+This is a database of all the **F**ast **R**adio **B**ursts (**FRBs**) detected till date. It is a mirror of the excellent database maintained by [*Apostolos Karalis*][0xCoto] as part of the [**FRBSTATS**][FRBSTATS] project. [**FRBSTATS**][FRBSTATS] is an open source project aimed at making a comprehensive and updated database of FRB detections. It provides a web interface to visualise this data, as well as an API which can be used to access the data as CSV or JSON. This repository extracts the database from the FRBSTATS Google Sheet, the link for which can be found at their GitHub repository [here][FRBSTATS-repo].
 
-[TNS]: https://www.wis-tns.org/
+This database powers the [**koshka :cat: project**][koshka].
+
+</div>
+
+[gitmoji]: https://gitmoji.dev
+[0xCoto]: https://github.com/0xCoto
 [black]: https://github.com/psf/black
 [koshka]: https://github.com/astrogewgaw/koshka
+[FRBSTATS-repo]: https://github.com/HeRTA/FRBSTATS
+[FRBSTATS]: https://www.herta-experiment.org/frbstats
+[license]: https://img.shields.io/badge/License-MIT-green.svg
+[koshka-badge]: https://img.shields.io/badge/Powering-koshka%20🐱-gold
 [black-badge]: https://img.shields.io/badge/code%20style-black-000000.svg
+[gitmoji-badge]: https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square
